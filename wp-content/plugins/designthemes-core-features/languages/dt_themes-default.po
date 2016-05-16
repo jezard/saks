@@ -1,0 +1,1769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spalab wordpress theme\n"
+"POT-Creation-Date: 2015-12-22 15:33+0530\n"
+"PO-Revision-Date: 2015-12-22 15:34+0530\n"
+"Last-Translator: Ram <ram@iamdesigning.com>\n"
+"Language-Team: designthemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-post-types/dt-catalog-post-type.php:95
+#: ../custom-post-types/dt-catalog-post-type.php:114
+msgid "Custom Icon Class"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:99
+#: ../custom-post-types/dt-catalog-post-type.php:118
+msgid "Add custom icon class"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:145
+#: ../custom-post-types/dt-catalog-post-type.php:147
+#: ../custom-post-types/dt-catalog-post-type.php:157
+msgid "Catalog"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:146
+msgid "All Catalog"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:148
+#: ../custom-post-types/dt-portfolio-post-type.php:73
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:149
+msgid "Add New Item"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:150
+msgid "Edit Item"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:151
+msgid "New Item"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:152
+msgid "View Item"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:153
+msgid "Search Items"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:154
+msgid "No Items found"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:155
+msgid "No Items found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:156
+msgid "Parent Item:"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:203
+msgid "Catalog Options"
+msgstr ""
+
+#: ../custom-post-types/dt-catalog-post-type.php:247
+msgid "No Image"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:70
+#: ../custom-post-types/dt-portfolio-post-type.php:82
+msgid "Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:71
+msgid "All Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:72
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:74
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:75
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:76
+msgid "New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:77
+msgid "View Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:78
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:79
+msgid "No portfolios found"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:80
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:81
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:128
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:12
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:13
+msgid "Breadcrumb Section"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:19
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:20
+msgid "YES! to disable breadcrumb section completely in this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:26
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:27
+msgid "Breadcrumb Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:32
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:33
+msgid "If you wish! You can add Breadcrumb title."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:44
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:46
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:45
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:47
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:46
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:48
+msgid "Upload an image for the breadcrumb background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:55
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:57
+#: ../page-builder/modules.php:150
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:59
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:72
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:61
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:74
+#: ../reservation/menu/calender/calender.php:54
+#: ../reservation/metaboxes/dt_services_metabox.php:18
+#: ../shortcodes/shortcodes.php:2507 ../shortcodes/shortcodes.php:2528
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:64
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:66
+msgid "Select how would you like to repeat the background image "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:68
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:70
+#: ../page-builder/modules.php:156
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:77
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:79
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:81
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:83
+msgid "Apply Dark Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:88
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:90
+msgid "YES! to apply dark background."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:96
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:98
+msgid "Sub Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:101
+msgid "You can given your sub title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:105
+#: ../reservation/dt-service-post-type.php:128
+#: ../reservation/metaboxes/dt_member_metabox.php:9
+#: ../reservation/metaboxes/dt_services_metabox.php:6
+#: ../reservation/metaboxes/dt_services_metabox.php:9
+msgid "Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:110
+msgid "Enter item price here (eg : $12.50)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:114
+msgid "Dummy Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:119
+msgid "Enter dummy item price here (eg : $12.50)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:123
+#: ../page-builder/modules.php:353 ../page-builder/modules.php:522
+#: ../page-builder/modules.php:552
+msgid "Link"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_catalog_default_metabox.php:128
+msgid "Enter item link here (eg : http://somedomain.com)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:105
+msgid "If you wish! You can add sub title."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:114
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:134
+msgid "You can choose between a left, right or full width."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:143
+msgid "Show Related Projects"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:153
+msgid "Would you like to show the related projects at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:161
+msgid "Show Social Share"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:170
+msgid "Would you like to show the social share at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:178
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:182
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:183
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:74
+msgid "Edit"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:80
+msgid "Prev Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:81
+msgid "Next Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:97
+msgid "Related Projects"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-catalog_entries.php:96
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-catalog_entries.php:97
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-portfolio_entries.php:143
+msgid "<span class=\"fa fa-angle-double-left\"></span> Prev"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-portfolio_entries.php:145
+msgid "Next <span class=\"fa fa-angle-double-right\"></span>"
+msgstr ""
+
+#: ../page-builder/config.php:11
+msgid "Wordpress Editor"
+msgstr ""
+
+#: ../page-builder/config.php:55
+msgid "Permanently delete this module?"
+msgstr ""
+
+#: ../page-builder/config.php:56
+msgid "Permanently delete all modules?"
+msgstr ""
+
+#: ../page-builder/config.php:57
+msgid "Permanently delete this layout?"
+msgstr ""
+
+#: ../page-builder/config.php:58
+msgid "Layout Name"
+msgstr ""
+
+#: ../page-builder/config.php:59
+msgid "Create"
+msgstr ""
+
+#: ../page-builder/config.php:60
+msgid "Cancel"
+msgstr ""
+
+#: ../page-builder/config.php:61
+msgid "* new layout will appear under the Sample Layout tab after page update"
+msgstr ""
+
+#: ../page-builder/config.php:62
+msgid "Yes"
+msgstr ""
+
+#: ../page-builder/config.php:63
+msgid "No"
+msgstr ""
+
+#: ../page-builder/config.php:64
+msgid "Saving..."
+msgstr ""
+
+#: ../page-builder/config.php:65
+msgid "Layout Saved."
+msgstr ""
+
+#: ../page-builder/config.php:66
+msgid "Custom CSS Saved."
+msgstr ""
+
+#: ../page-builder/config.php:67
+msgid "Column Options Saved."
+msgstr ""
+
+#: ../page-builder/config.php:68
+msgid "Section Options Saved."
+msgstr ""
+
+#: ../page-builder/functions.php:369 ../page-builder/functions.php:490
+#: ../page-builder/functions.php:544
+msgid "Settings"
+msgstr ""
+
+#: ../page-builder/functions.php:438 ../page-builder/functions.php:498
+#: ../page-builder/functions.php:551 ../page-builder/functions.php:610
+#: ../page-builder/functions.php:697 ../page-builder/functions.php:754
+msgid "Save Changes"
+msgstr ""
+
+#: ../page-builder/functions.php:584
+msgid "Additional Column Options"
+msgstr ""
+
+#: ../page-builder/functions.php:634
+msgid "Fullwidth Section Options"
+msgstr ""
+
+#: ../page-builder/functions.php:719
+msgid "Add Modules"
+msgstr ""
+
+#: ../page-builder/functions.php:750 ../page-builder/metabox.php:24
+msgid "Add Custom CSS"
+msgstr ""
+
+#: ../page-builder/metabox.php:17
+msgid "Clear All"
+msgstr ""
+
+#: ../page-builder/metabox.php:20
+msgid "Create Sample Layout"
+msgstr ""
+
+#: ../page-builder/modules.php:64
+msgid "1/2 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:68
+msgid "1/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:72
+msgid "1/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:76
+msgid "1/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:80
+msgid "1/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:84
+msgid "2/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:88
+msgid "2/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:92
+msgid "2/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:96
+msgid "3/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:100
+msgid "3/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:104
+msgid "3/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:108
+msgid "4/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:112
+msgid "4/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:116
+msgid "5/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:120
+msgid "Resizable Column"
+msgstr ""
+
+#: ../page-builder/modules.php:125
+msgid "Fullwidth Section"
+msgstr ""
+
+#: ../page-builder/modules.php:129 ../page-builder/modules.php:311
+#: ../page-builder/modules.php:366 ../page-builder/modules.php:509
+#: ../page-builder/modules.php:592 ../page-builder/modules.php:968
+#: ../page-builder/modules.php:1327 ../page-builder/modules.php:1360
+#: ../page-builder/modules.php:1393 ../page-builder/modules.php:1426
+#: ../page-builder/modules.php:1460 ../page-builder/modules.php:1494
+#: ../page-builder/modules.php:1643
+msgid "Background Color"
+msgstr ""
+
+#: ../page-builder/modules.php:134
+msgid "Background Image"
+msgstr ""
+
+#: ../page-builder/modules.php:139
+msgid "Background Opacity"
+msgstr ""
+
+#: ../page-builder/modules.php:144
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:162
+msgid "Padding Top"
+msgstr ""
+
+#: ../page-builder/modules.php:167
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../page-builder/modules.php:172 ../page-builder/modules.php:321
+#: ../page-builder/modules.php:378 ../page-builder/modules.php:432
+#: ../page-builder/modules.php:474 ../page-builder/modules.php:513
+#: ../page-builder/modules.php:831 ../page-builder/modules.php:973
+msgid "Text Color"
+msgstr ""
+
+#: ../page-builder/modules.php:177
+msgid "CSS Class"
+msgstr ""
+
+#: ../page-builder/modules.php:190
+msgid "Add Any Content Here"
+msgstr ""
+
+#: ../page-builder/modules.php:195 ../page-builder/modules.php:209
+#: ../page-builder/modules.php:239 ../page-builder/modules.php:280
+#: ../page-builder/modules.php:325 ../page-builder/modules.php:443
+#: ../page-builder/modules.php:484 ../page-builder/modules.php:533
+#: ../page-builder/modules.php:573 ../page-builder/modules.php:596
+#: ../page-builder/modules.php:628 ../page-builder/modules.php:663
+#: ../page-builder/modules.php:687 ../page-builder/modules.php:704
+#: ../page-builder/modules.php:725 ../page-builder/modules.php:767
+#: ../page-builder/modules.php:844 ../page-builder/modules.php:872
+#: ../page-builder/modules.php:900 ../page-builder/modules.php:928
+#: ../page-builder/modules.php:992 ../page-builder/modules.php:1006
+#: ../page-builder/modules.php:1021 ../page-builder/modules.php:1039
+#: ../page-builder/modules.php:1053 ../page-builder/modules.php:1070
+#: ../page-builder/modules.php:1087 ../page-builder/modules.php:1105
+#: ../page-builder/modules.php:1122 ../page-builder/modules.php:1140
+#: ../page-builder/modules.php:1157 ../page-builder/modules.php:1173
+#: ../page-builder/modules.php:1190 ../page-builder/modules.php:1207
+#: ../page-builder/modules.php:1224 ../page-builder/modules.php:1648
+#: ../page-builder/modules.php:1691 ../page-builder/modules.php:1705
+#: ../page-builder/modules.php:1721 ../page-builder/modules.php:1735
+#: ../page-builder/modules.php:1772 ../page-builder/modules.php:1787
+msgid "Content"
+msgstr ""
+
+#: ../page-builder/modules.php:204
+msgid "Accordion Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:234
+msgid "Accordion Default"
+msgstr ""
+
+#: ../page-builder/modules.php:264
+msgid "Animation"
+msgstr ""
+
+#: ../page-builder/modules.php:269
+msgid "Choose Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:275
+msgid "Delay"
+msgstr ""
+
+#: ../page-builder/modules.php:290
+msgid "Titled Box"
+msgstr ""
+
+#: ../page-builder/modules.php:295 ../page-builder/modules.php:411
+#: ../page-builder/modules.php:456 ../page-builder/modules.php:497
+#: ../page-builder/modules.php:546 ../page-builder/modules.php:809
+#: ../page-builder/modules.php:956 ../page-builder/modules.php:1679
+#: ../reservation/menu/payments/payments.php:56
+msgid "Type"
+msgstr ""
+
+#: ../page-builder/modules.php:301 ../page-builder/modules.php:397
+#: ../page-builder/modules.php:1322 ../page-builder/modules.php:1355
+#: ../page-builder/modules.php:1388 ../page-builder/modules.php:1421
+#: ../page-builder/modules.php:1455 ../page-builder/modules.php:1489
+#: ../page-builder/modules.php:1638 ../page-builder/modules.php:1750
+#: ../page-builder/modules.php:1826 ../page-builder/modules.php:1849
+#: ../page-builder/modules.php:1872 ../page-builder/modules.php:1895
+#: ../page-builder/modules.php:1918 ../page-builder/modules.php:1941
+#: ../reservation/dt-service-post-type.php:112
+#: ../reservation/cron/send_agenda_cron.php:64
+#: ../reservation/menu/calender/calender.php:66
+msgid "Title"
+msgstr ""
+
+#: ../page-builder/modules.php:306
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:315 ../page-builder/modules.php:371
+#: ../page-builder/modules.php:425 ../page-builder/modules.php:617
+#: ../page-builder/modules.php:653 ../page-builder/modules.php:962
+msgid "Variation"
+msgstr ""
+
+#: ../page-builder/modules.php:334
+msgid "Button"
+msgstr ""
+
+#: ../page-builder/modules.php:340 ../page-builder/modules.php:611
+#: ../page-builder/modules.php:647 ../page-builder/modules.php:681
+msgid "Style"
+msgstr ""
+
+#: ../page-builder/modules.php:347
+msgid "Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:359 ../page-builder/modules.php:1669
+msgid "Size"
+msgstr ""
+
+#: ../page-builder/modules.php:383 ../page-builder/modules.php:527
+#: ../page-builder/modules.php:563
+msgid "Target"
+msgstr ""
+
+#: ../page-builder/modules.php:390 ../page-builder/modules.php:569
+#: ../page-builder/modules.php:623 ../page-builder/modules.php:659
+#: ../page-builder/modules.php:1831 ../page-builder/modules.php:1854
+#: ../page-builder/modules.php:1877 ../page-builder/modules.php:1900
+#: ../page-builder/modules.php:1923 ../page-builder/modules.php:1946
+msgid "Class"
+msgstr ""
+
+#: ../page-builder/modules.php:405
+msgid "Blockquote"
+msgstr ""
+
+#: ../page-builder/modules.php:418 ../page-builder/modules.php:468
+msgid "Align"
+msgstr ""
+
+#: ../page-builder/modules.php:437
+msgid "Cite"
+msgstr ""
+
+#: ../page-builder/modules.php:451
+msgid "Pullquote"
+msgstr ""
+
+#: ../page-builder/modules.php:462
+msgid "Show Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:479
+msgid "Cite Name"
+msgstr ""
+
+#: ../page-builder/modules.php:492
+msgid "Tooltip"
+msgstr ""
+
+#: ../page-builder/modules.php:503
+msgid "Position"
+msgstr ""
+
+#: ../page-builder/modules.php:517
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../page-builder/modules.php:541
+msgid "Callout Box"
+msgstr ""
+
+#: ../page-builder/modules.php:557
+msgid "Button Label"
+msgstr ""
+
+#: ../page-builder/modules.php:582
+msgid "Callout Box With Moving BG"
+msgstr ""
+
+#: ../page-builder/modules.php:587
+msgid "Background Image URL"
+msgstr ""
+
+#: ../page-builder/modules.php:606
+msgid "Ordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:642
+msgid "Unordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:676
+msgid "Manual Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:699
+msgid "Lists With FontAwesome Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:720
+msgid "Pricing Table"
+msgstr ""
+
+#: ../page-builder/modules.php:762
+msgid "Pricing Table With Image"
+msgstr ""
+
+#: ../page-builder/modules.php:804
+msgid "Progress Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:815 ../page-builder/modules.php:1686
+msgid "Color"
+msgstr ""
+
+#: ../page-builder/modules.php:820
+msgid "Value"
+msgstr ""
+
+#: ../page-builder/modules.php:825 ../page-builder/modules.php:978
+msgid "Text"
+msgstr ""
+
+#: ../page-builder/modules.php:838
+msgid "Tabs - Horizontal"
+msgstr ""
+
+#: ../page-builder/modules.php:867
+msgid "Tabs Vertical"
+msgstr ""
+
+#: ../page-builder/modules.php:895
+msgid "Toggle Default"
+msgstr ""
+
+#: ../page-builder/modules.php:923
+msgid "Toggle Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:951
+msgid "Dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:952
+msgid "Use this module to add dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:987
+msgid "Team"
+msgstr ""
+
+#: ../page-builder/modules.php:988
+msgid "Use this module to add member"
+msgstr ""
+
+#: ../page-builder/modules.php:1001
+msgid "Testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1002
+msgid "Use this module to add testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1015
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1016
+msgid "Use this module to add testimonial carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1034
+msgid "3 Columns Portfolio Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1035
+msgid "Use this module to add portfolio grid in 3 columns"
+msgstr ""
+
+#: ../page-builder/modules.php:1048
+msgid "4 Columns portfolio Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1049
+msgid "Use this module to add portfolio grid in 4 columns"
+msgstr ""
+
+#: ../page-builder/modules.php:1065
+msgid "Icon Box-type1"
+msgstr ""
+
+#: ../page-builder/modules.php:1066
+msgid "Use this module to add icon box type1"
+msgstr ""
+
+#: ../page-builder/modules.php:1082
+msgid "Icon Box-type2"
+msgstr ""
+
+#: ../page-builder/modules.php:1083
+msgid "Use this module to add icon box type2"
+msgstr ""
+
+#: ../page-builder/modules.php:1100
+msgid "Icon Box-type3"
+msgstr ""
+
+#: ../page-builder/modules.php:1101
+msgid "Use this module to add icon box type3"
+msgstr ""
+
+#: ../page-builder/modules.php:1117
+msgid "Icon Box-type4"
+msgstr ""
+
+#: ../page-builder/modules.php:1118
+msgid "Use this module to add icon box type4"
+msgstr ""
+
+#: ../page-builder/modules.php:1135
+msgid "Icon Box-type5"
+msgstr ""
+
+#: ../page-builder/modules.php:1136
+msgid "Use this module to add icon box type5"
+msgstr ""
+
+#: ../page-builder/modules.php:1152
+msgid "Icon Box-type6"
+msgstr ""
+
+#: ../page-builder/modules.php:1153
+msgid "Use this module to add icon box type6"
+msgstr ""
+
+#: ../page-builder/modules.php:1168
+msgid "Icon Box-type7"
+msgstr ""
+
+#: ../page-builder/modules.php:1169
+msgid "Use this module to add icon box type7"
+msgstr ""
+
+#: ../page-builder/modules.php:1185
+msgid "Icon Box-type8"
+msgstr ""
+
+#: ../page-builder/modules.php:1186
+msgid "Use this module to add icon box type8"
+msgstr ""
+
+#: ../page-builder/modules.php:1202
+msgid "Icon Box-type9"
+msgstr ""
+
+#: ../page-builder/modules.php:1203
+msgid "Use this module to add icon box type9"
+msgstr ""
+
+#: ../page-builder/modules.php:1219
+msgid "Icon Box-type10"
+msgstr ""
+
+#: ../page-builder/modules.php:1220
+msgid "Use this module to add icon box type10"
+msgstr ""
+
+#: ../page-builder/modules.php:1242
+msgid "Spa Procedure"
+msgstr ""
+
+#: ../page-builder/modules.php:1243
+msgid "Use this module to add spa procedure"
+msgstr ""
+
+#: ../page-builder/modules.php:1247
+msgid "Procedure Title"
+msgstr ""
+
+#: ../page-builder/modules.php:1252
+msgid "Image"
+msgstr ""
+
+#: ../page-builder/modules.php:1257
+msgid "Procedure Highlight1"
+msgstr ""
+
+#: ../page-builder/modules.php:1262
+msgid "Procedure Highlight2"
+msgstr ""
+
+#: ../page-builder/modules.php:1267
+msgid "Procedure Highlight3"
+msgstr ""
+
+#: ../page-builder/modules.php:1272
+msgid "Procedure Highlight4"
+msgstr ""
+
+#: ../page-builder/modules.php:1277
+msgid "Procedure Highlight5"
+msgstr ""
+
+#: ../page-builder/modules.php:1282
+msgid "Range Title"
+msgstr ""
+
+#: ../page-builder/modules.php:1287
+msgid "Catalog Item Ids"
+msgstr ""
+
+#: ../page-builder/modules.php:1292
+msgid "Catalog Show Dummy Price"
+msgstr ""
+
+#: ../page-builder/modules.php:1297
+msgid "Button Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1302
+msgid "Button Link"
+msgstr ""
+
+#: ../page-builder/modules.php:1307
+msgid "Button Target"
+msgstr ""
+
+#: ../page-builder/modules.php:1317
+msgid "Donut Chart - Small"
+msgstr ""
+
+#: ../page-builder/modules.php:1318
+msgid "Use this module to add small donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1332 ../page-builder/modules.php:1365
+#: ../page-builder/modules.php:1398 ../page-builder/modules.php:1431
+#: ../page-builder/modules.php:1465 ../page-builder/modules.php:1499
+msgid "Foreground Color"
+msgstr ""
+
+#: ../page-builder/modules.php:1337 ../page-builder/modules.php:1370
+#: ../page-builder/modules.php:1403 ../page-builder/modules.php:1436
+#: ../page-builder/modules.php:1470 ../page-builder/modules.php:1504
+msgid "Percent"
+msgstr ""
+
+#: ../page-builder/modules.php:1342 ../page-builder/modules.php:1375
+#: ../page-builder/modules.php:1408 ../page-builder/modules.php:1441
+#: ../page-builder/modules.php:1475 ../page-builder/modules.php:1509
+#: ../page-builder/modules.php:1755 ../page-builder/modules.php:1836
+#: ../page-builder/modules.php:1859 ../page-builder/modules.php:1882
+#: ../page-builder/modules.php:1905 ../page-builder/modules.php:1928
+#: ../page-builder/modules.php:1951
+#: ../reservation/cron/send_agenda_cron.php:66
+msgid "Description"
+msgstr ""
+
+#: ../page-builder/modules.php:1350
+msgid "Donut Chart - Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1351
+msgid "Use this module to add medium donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1383
+msgid "Donut Chart - Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1384
+msgid "Use this module to add large donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1416
+msgid "Donut Chart - Small Type2"
+msgstr ""
+
+#: ../page-builder/modules.php:1417
+msgid "Use this module to add small type2 donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1450
+msgid "Donut Chart - Medium Type2"
+msgstr ""
+
+#: ../page-builder/modules.php:1451
+msgid "Use this module to add medium type2 donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1484
+msgid "Donut Chart - Large Type2"
+msgstr ""
+
+#: ../page-builder/modules.php:1485
+msgid "Use this module to add large type2 donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1518
+msgid "Individual Post"
+msgstr ""
+
+#: ../page-builder/modules.php:1519
+msgid "Use this module to display any single post"
+msgstr ""
+
+#: ../page-builder/modules.php:1523
+msgid "Post Id"
+msgstr ""
+
+#: ../page-builder/modules.php:1528 ../page-builder/modules.php:1563
+#: ../page-builder/modules.php:1609
+msgid "Read More Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1533 ../page-builder/modules.php:1568
+#: ../page-builder/modules.php:1614
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../page-builder/modules.php:1541
+msgid "Recent Posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1542
+msgid "Use this module to display recent posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1546 ../page-builder/modules.php:1587
+msgid "Columns"
+msgstr ""
+
+#: ../page-builder/modules.php:1552 ../page-builder/modules.php:1598
+msgid "Limit"
+msgstr ""
+
+#: ../page-builder/modules.php:1557 ../page-builder/modules.php:1603
+msgid "Read More Text Show"
+msgstr ""
+
+#: ../page-builder/modules.php:1573 ../page-builder/modules.php:1619
+msgid "Excerpt Show"
+msgstr ""
+
+#: ../page-builder/modules.php:1582
+msgid "Recent Posts With Category"
+msgstr ""
+
+#: ../page-builder/modules.php:1583
+msgid "Use this module to display recent posts based on categories"
+msgstr ""
+
+#: ../page-builder/modules.php:1593
+msgid "Category ID"
+msgstr ""
+
+#: ../page-builder/modules.php:1628
+msgid "Colored Box"
+msgstr ""
+
+#: ../page-builder/modules.php:1633 ../page-builder/modules.php:1664
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:1658
+msgid "Infographic Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:1674
+msgid "Percentage"
+msgstr ""
+
+#: ../page-builder/modules.php:1681
+msgid "standard (Default)"
+msgstr ""
+
+#: ../page-builder/modules.php:1681
+msgid "Progress Striped"
+msgstr ""
+
+#: ../page-builder/modules.php:1682
+msgid "Progress Active Striped"
+msgstr ""
+
+#: ../page-builder/modules.php:1700
+msgid "Book Appoinment"
+msgstr ""
+
+#: ../page-builder/modules.php:1716
+msgid "Catalog Items"
+msgstr ""
+
+#: ../page-builder/modules.php:1717
+msgid "Use this module to add catalog items"
+msgstr ""
+
+#: ../page-builder/modules.php:1730
+msgid "Catalog Menu Items"
+msgstr ""
+
+#: ../page-builder/modules.php:1731
+msgid "Use this module to add catalog menu items list"
+msgstr ""
+
+#: ../page-builder/modules.php:1744
+msgid "News Letter"
+msgstr ""
+
+#: ../page-builder/modules.php:1745 ../page-builder/modules.php:1768
+msgid "Use this module to add news letter"
+msgstr ""
+
+#: ../page-builder/modules.php:1760
+msgid "Placeholder Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1767
+msgid "Special Gifts"
+msgstr ""
+
+#: ../page-builder/modules.php:1782
+msgid "Counter"
+msgstr ""
+
+#: ../page-builder/modules.php:1783
+msgid "Use this module to add counter"
+msgstr ""
+
+#: ../page-builder/modules.php:1797
+msgid "Reserve Appointment"
+msgstr ""
+
+#: ../page-builder/modules.php:1798
+msgid "Use this module to reserve appointment module."
+msgstr ""
+
+#: ../page-builder/modules.php:1802
+msgid "Service Ids (separeted by commas)"
+msgstr ""
+
+#: ../page-builder/modules.php:1807
+msgid "Staff Ids (separeted by commas)"
+msgstr ""
+
+#: ../page-builder/modules.php:1821
+msgid "Heading 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1822
+msgid "Use this module to add heading 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1844
+msgid "Heading 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1845
+msgid "Use this module to add heading 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1867
+msgid "Heading 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1868
+msgid "Use this module to add heading 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1890
+msgid "Heading 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1891
+msgid "Use this module to add heading 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1913
+msgid "Heading 5"
+msgstr ""
+
+#: ../page-builder/modules.php:1914
+msgid "Use this module to add heading 5"
+msgstr ""
+
+#: ../page-builder/modules.php:1936
+msgid "Heading 6"
+msgstr ""
+
+#: ../page-builder/modules.php:1937
+msgid "Use this module to add heading 6"
+msgstr ""
+
+#: ../page-builder/modules.php:1959
+msgid "Address"
+msgstr ""
+
+#: ../page-builder/modules.php:1960
+msgid "Use this module to add address"
+msgstr ""
+
+#: ../page-builder/modules.php:1964
+msgid "Line 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1969
+msgid "Line 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1974
+msgid "Line 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1979
+msgid "Line 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1987
+msgid "Phone"
+msgstr ""
+
+#: ../page-builder/modules.php:1988
+msgid "Use this module to add phone number alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1992
+msgid "Phone No"
+msgstr ""
+
+#: ../page-builder/modules.php:2000
+msgid "Mobile"
+msgstr ""
+
+#: ../page-builder/modules.php:2001
+msgid "Use this module to add mobile number alone"
+msgstr ""
+
+#: ../page-builder/modules.php:2005
+msgid "Mobile No"
+msgstr ""
+
+#: ../page-builder/modules.php:2013
+msgid "Fax"
+msgstr ""
+
+#: ../page-builder/modules.php:2014
+msgid "Use this module to add fax alone"
+msgstr ""
+
+#: ../page-builder/modules.php:2018
+msgid "Fax No"
+msgstr ""
+
+#: ../page-builder/modules.php:2026 ../page-builder/modules.php:2031
+msgid "Email"
+msgstr ""
+
+#: ../page-builder/modules.php:2027
+msgid "Use this module to add email alone"
+msgstr ""
+
+#: ../page-builder/modules.php:2039
+msgid "Website Url"
+msgstr ""
+
+#: ../page-builder/modules.php:2040
+msgid "Use this module to add website url alone"
+msgstr ""
+
+#: ../page-builder/modules.php:2044 ../page-builder/modules.php:2057
+msgid "URL"
+msgstr ""
+
+#: ../page-builder/modules.php:2052
+msgid "Online Form Url"
+msgstr ""
+
+#: ../page-builder/modules.php:2053
+msgid "Use this module to add online form url alone"
+msgstr ""
+
+#: ../page-builder/modules.php:2065
+msgid "Clear"
+msgstr ""
+
+#: ../page-builder/modules.php:2066
+msgid "Add this module to add space between contents"
+msgstr ""
+
+#: ../page-builder/modules.php:2072
+msgid "Bordered Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2073
+msgid "Use this module to add bordered horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2079
+msgid "Bordered Horizontal Rule Small"
+msgstr ""
+
+#: ../page-builder/modules.php:2080
+msgid "Use this module to add bordered horizontal rule small"
+msgstr ""
+
+#: ../page-builder/modules.php:2087
+msgid "Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2088
+msgid "Use this module to add horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2094
+msgid "Horizontal Rule Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:2095
+msgid "Use this module to add medium horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2101
+msgid "Horizontal Rule Large"
+msgstr ""
+
+#: ../page-builder/modules.php:2102
+msgid "Use this module to add large horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:2108
+msgid "Horizontal Rule With Top Link"
+msgstr ""
+
+#: ../page-builder/modules.php:2109
+msgid "Use this module to add horizontal rule with top link"
+msgstr ""
+
+#: ../page-builder/modules.php:2115
+msgid "Whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:2116
+msgid "Use this module to add whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:2122
+msgid "Whitespace Small"
+msgstr ""
+
+#: ../page-builder/modules.php:2123
+msgid "Use this module to add small whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:2129
+msgid "Whitespace Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:2130
+msgid "Use this module to add medium whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:2136
+msgid "Whitespace Large"
+msgstr ""
+
+#: ../page-builder/modules.php:2137
+msgid "Use this module to add large whitespace"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:70
+#: ../page-builder/register-page-builder.php:118
+msgid " Page Builder"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:239
+msgid "Enable page builder"
+msgstr ""
+
+#: ../reservation/dt-calender-menu.php:56
+msgid "Reservations"
+msgstr ""
+
+#: ../reservation/dt-calender-menu.php:56
+#: ../reservation/menu/calender/calender.php:2
+msgid "Calender"
+msgstr ""
+
+#: ../reservation/dt-calender-menu.php:86
+msgid "Add New Reservation"
+msgstr ""
+
+#: ../reservation/dt-calender-menu.php:87
+msgid "Edit Reservation"
+msgstr ""
+
+#: ../reservation/dt-calender-menu.php:147
+msgid "Select Service"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:20
+#: ../reservation/dt-customer-post-type.php:22
+msgid "Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:21
+#: ../reservation/menu/calender/calender.php:52
+#: ../reservation/menu/payments/payments.php:53
+msgid "Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:23
+msgid "Add Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:24
+msgid "Add New Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:25
+#: ../reservation/dt-customer-post-type.php:26
+msgid "Edit Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:27
+msgid "New Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:28
+#: ../reservation/dt-customer-post-type.php:29
+msgid "View Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:30
+msgid "Search Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:31
+msgid "No Customers found"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:32
+msgid "No Customers found in Trash"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:33
+msgid "Parent Customer:"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:39
+msgid "This is Custom Post type named as Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:70
+#: ../reservation/dt-staff-post-type.php:73
+msgid "Set Personal Information"
+msgstr ""
+
+#: ../reservation/dt-payments-menu.php:17
+#: ../reservation/dt-payments-menu.php:38
+msgid "Payments"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:24
+#: ../reservation/dt-service-post-type.php:26
+msgid "Services"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:25
+#: ../reservation/cron/send_agenda_cron.php:67
+#: ../reservation/menu/calender/calender.php:47
+#: ../reservation/menu/payments/payments.php:57
+msgid "Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:27
+msgid "Add Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:28
+msgid "Add New Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:29
+#: ../reservation/dt-service-post-type.php:30
+msgid "Edit Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:31
+msgid "New Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:32
+#: ../reservation/dt-service-post-type.php:33
+msgid "View Service"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:34
+msgid "Search Services"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:35
+msgid "No Services found"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:36
+msgid "No Services found in Trash"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:37
+msgid "Parent Service:"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:43
+msgid "This is Custom Post type named as Services"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:89
+msgid "Set Default Options"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:113
+msgid "Details"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:114
+msgid "Author"
+msgstr ""
+
+#: ../reservation/dt-service-post-type.php:132
+#: ../reservation/metaboxes/dt_services_metabox.php:15
+msgid "Duration"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:20
+#: ../reservation/dt-staff-post-type.php:22 ../shortcodes/shortcodes.php:2526
+msgid "Staffs"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:21
+msgid "Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:23
+msgid "Add Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:24
+msgid "Add New Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:25
+#: ../reservation/dt-staff-post-type.php:26
+msgid "Edit Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:27
+msgid "New Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:28
+#: ../reservation/dt-staff-post-type.php:29
+msgid "View Staff"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:30
+msgid "Search Staffs"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:31
+msgid "No Staffs found"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:32
+msgid "No Staffs found in Trash"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:33
+msgid "Parent Staff:"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:39
+msgid "This is Custom Post type named as Staffs"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:70
+msgid "Choose Services"
+msgstr ""
+
+#: ../reservation/dt-staff-post-type.php:76
+msgid "Choose Schedule"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:62
+msgid "Agenda"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:65
+msgid "Client"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:68
+#: ../reservation/menu/payments/payments.php:58
+msgid "Time"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:3
+msgid "Reservation System"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:28
+msgid "Date"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:33
+msgid "Start Time"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:35
+msgid "Select Start Time"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:40
+msgid "End Time"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:42
+msgid "Select End Time"
+msgstr ""
+
+#: ../reservation/menu/calender/calender.php:71
+msgid "Body"
+msgstr ""
+
+#: ../reservation/menu/payments/payments.php:30
+msgid "payment"
+msgstr ""
+
+#: ../reservation/menu/payments/payments.php:31
+msgid "payments"
+msgstr ""
+
+#: ../reservation/menu/payments/payments.php:55
+msgid "Amount ("
+msgstr ""
+
+#: ../reservation/menu/payments/payments.php:64
+msgid "No payments found, dude."
+msgstr ""
+
+#: ../reservation/menu/payments/payments.php:125
+msgid "Trash"
+msgstr ""
+
+#: ../reservation/metaboxes/dt_customer_metabox.php:9
+#: ../reservation/metaboxes/dt_member_metabox.php:17
+msgid "Email Id"
+msgstr ""
+
+#: ../reservation/metaboxes/dt_customer_metabox.php:16
+msgid "phone"
+msgstr ""
+
+#: ../reservation/metaboxes/dt_member_schedule_metabox.php:17
+msgid "To"
+msgstr ""
+
+#: ../reservation/metaboxes/dt_member_service_metabox.php:21
+msgid "Add At least one service"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:786
+msgid "Purchase Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:917
+msgid "Phone : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:939
+msgid "Mobile : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:961
+msgid "Fax : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:983 ../shortcodes/shortcodes.php:1690
+msgid "Email : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1003
+msgid "Web : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1028
+msgid "Online Form : "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1030
+msgid "Fill out this form"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1153
+msgid "top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1467 ../shortcodes/shortcodes.php:1509
+msgid "Heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1471 ../shortcodes/shortcodes.php:1513
+msgid "Buy Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1673 ../shortcodes/shortcodes.php:1674
+msgid "Please specify image url"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2011
+msgid "Please add few portfolio items before using this shortcode"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2413
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2416
+msgid "Error:"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2427
+msgid ""
+"Error: &nbsp; You must specify a API KEY value for the listSubscribe method."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2502
+msgid "Book an Appointment"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2505
+msgid "Available Services"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2548
+msgid "I am available on"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2554
+msgid "Start :"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2586
+msgid "End :"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2607
+msgid "Show Time"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2607
+msgid "Book Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2618
+msgid ""
+"Please create Reservation template page in order to make this shortcode work "
+"properly!"
+msgstr ""
