@@ -50,5 +50,12 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
 .dt-sc-ico-content.type9 > h5 {
     border-bottom: 1px solid #f0cde1;
 }
+#primary{
+	margin-top: 30px;
+}
+.menu-thumb .rounded, .dt-sc-one-column .dt-sc-catalog-menu.type1 .rounded {
+    height: 130px;
+    width: 130px;
+}
 
 	
