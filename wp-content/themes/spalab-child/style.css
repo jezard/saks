@@ -14,3 +14,41 @@ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .dt-sc-gift-cards li
     font-weight: 300;
     letter-spacing: 1px;
 }
+
+
+.dt-sc-button.pink { background:#CA187D; }
+.dt-sc-button.pink:after { background: #de54a2; }
+blockquote.pink, blockquote.type2.pink { border-color:#CA187D; }
+blockquote.type2.pink:before { border-top-color:#CA187D; }
+blockquote.type3.pink q { color:#CA187D; }
+
+
+ul.dt-sc-fancy-list.pink li:before { color:#CA187D; }
+ol.dt-sc-fancy-list.pink li { color:#CA187D; }
+.dt-sc-titled-box.pink h6.dt-sc-titled-box-title { background:#CA187D; }
+
+.dt-sc-dropcap.dt-sc-dropcap-default.pink { color:#CA187D; }
+.dt-sc-dropcap-circle.pink, .dt-sc-dropcap-bordered-circle.pink, .dt-sc-dropcap-square.pink, .dt-sc-dropcap-bordered-square.pink { background:#CA187D; }
+
+.fullwidth-bg{ background: rgba(202, 24, 125, 0.9); padding: 30px 0;}
+
+.jps-proofpoints h5 a, .jps-proofpoints h5 a:hover{
+	color:#f0cde1;
+}
+#bbar-wrapper.type1, #bbar-wrapper.type1 i, #bbar-wrapper.type1 a, #bbar-wrapper.type1 .bbar-text, #bbar-wrapper.type4, #bbar-wrapper.type4 i, #bbar-wrapper.type4 a, #bbar-wrapper.type4 .bbar-text, #bbar-wrapper.type5, #bbar-wrapper.type5 i, #bbar-wrapper.type5 a, #bbar-wrapper.type5 .bbar-text {
+    color: rgba(255, 255, 255, 0.64)!important;
+}
+#bbar-wrapper, #bbar-wrapper.type1, #bbar-wrapper.type1 i, #bbar-wrapper.type1 a, #bbar-wrapper.type4, #bbar-wrapper.type4 i, #bbar-wrapper.type4 a, #bbar-wrapper.type5, #bbar-wrapper.type5 i, #bbar-wrapper.type5 a {
+    color: #f0cde1!important;
+}
+#bbar-wrapper ul.top-menu li a:hover, #bbar-wrapper .column.dt-sc-one-half.alignright a:hover, #bbar-wrapper .column.dt-sc-one-half.alignright a:hover, #bbar-wrapper a:hover, #bbar-wrapper.type1 a:hover, #bbar-wrapper.type4 a:hover, #bbar-wrapper.type5 a:hover {
+    color: #f0cde1!important;
+}
+.dt-sc-ico-content.type9 > h5:after, .dt-sc-ico-content.type9 > h5:before, .dt-sc-ico-content.type9 > h5:after, .dt-sc-ico-content.type9 > h5:before {
+    background: #f0cde1;
+}
+.dt-sc-ico-content.type9 > h5 {
+    border-bottom: 1px solid #f0cde1;
+}
+
+	
