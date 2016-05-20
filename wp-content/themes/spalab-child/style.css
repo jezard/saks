@@ -119,11 +119,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9207f', end
 }
 #loading{
  background: rgba(51, 51, 52, 1)!important;
- /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e51c1e+0,c9207f+53,c9207f+53&0.79+0,0.8+100 */
-    background: -moz-linear-gradient(top, rgba(229,28,30,1) 0%, rgba(201,32,127,1) 53%, rgba(201,32,127,1) 100%)!important; /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, rgba(229,28,30,1) 0%,rgba(201,32,127,1) 53%,rgba(201,32,127,1) 100%)!important; /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, rgba(229,28,30,1) 0%,rgba(201,32,127,1) 53%,rgba(201,32,127,1) 100%)!important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9e51c1e', endColorstr='#ccc9207f',GradientType=0 )!important; /* IE6-9 */
 }
 /*footer*/
 #footer .ico-border .ico-bg {
