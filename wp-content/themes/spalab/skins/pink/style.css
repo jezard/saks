@@ -16,7 +16,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hov
 
 .dt-sc-gift-cards .dt-sc-gift.product:hover .price, .dt-sc-gift-cards .dt-sc-gift.product.selected .price, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details, .skin-bg.parallax-section .fullwidth-bg { background: rgba(202, 100, 158, 0.9); }
 
-.dt-sc-gift-cards .dt-sc-gift.product .product-thumb a .img-overlay  { background: rgba(202, 103, 159, 0.4); }
+.dt-sc-gift-cards .dt-sc-gift.product .product-thumb a .img-overlay  { background: rgba(51, 51, 52, 0.9); }
 
 .dt-sc-callout-box.type5, .dt-sc-team:hover, ul.time-table > li:after { background: #fbe8f3; }
 

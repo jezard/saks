@@ -35,7 +35,7 @@
                         <div class="dt-sc-hr-invisible-small"></div>  <div class="dt-sc-clear"></div><?php
 					  } 
 				
-				$args = array( 'post_type' => 'dt_catalog', 'posts_per_page' => -1, 'suppress_filters'=>'0', 'tax_query' => array( array( 'taxonomy' => 'catalog_entries', 'field' => 'id', 'terms' => $term)));
+				$args = array( 'post_type' => 'dt_catalog', 'posts_per_page' => -1, 'suppress_filters'=>'0', 'tax_query' => array( array( 'taxonomy' => 'catalog_entries', 'field' => 'id', 'terms' => $term)), 'orderby'=>'menu_order', 'order'=>'ASC'  );
 				
 				$the_query = new WP_Query($args);
 				if($the_query->have_posts()): $temp_class = "";

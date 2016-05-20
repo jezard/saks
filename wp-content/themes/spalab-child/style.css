@@ -7,15 +7,28 @@ Description:    Child theme for the SpaLab theme
 Template:       spalab
 Version:        2.3.1
 */
-@import url("../spalab/style.css");
 
+/*Use body font*/
+@import url("../spalab/style.css");
+#bbar-wrapper, .border-title h1, .border-title h2, .border-title h3, .border-title h4, .border-title h5, .border-title h6, .border-title span, .dt-sc-box-title span, .entry-meta .comments, .mean-container .mean-nav ul li a.mean-expand, .footer-menu, .error-info h2, .error-info p {
+    font-family: inherit;
+}
+
+/*Use Saks font*/
 h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .dt-sc-gift-cards li .dt-sc-gift.product .price, .dt-sc-catalog-menu .dt-sc-catalog-meta, #main-menu {
     font-family: "futura-pt";
     font-weight: 300;
     letter-spacing: 1px;
 }
+/*Updated scripty font*/
+#bbar-wrapper .bbar-text {
+    font-size: 18px;
+}
+.bbar-text, .border-title .tag-line, .floral-head {
+    font-family: 'Mr Dafoe', cursive;
+}
 
-
+/*color updates*/
 .dt-sc-button.pink { background:#CA187D; }
 .dt-sc-button.pink:after { background: #de54a2; }
 blockquote.pink, blockquote.type2.pink { border-color:#CA187D; }
@@ -30,7 +43,11 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
 .dt-sc-dropcap.dt-sc-dropcap-default.pink { color:#CA187D; }
 .dt-sc-dropcap-circle.pink, .dt-sc-dropcap-bordered-circle.pink, .dt-sc-dropcap-square.pink, .dt-sc-dropcap-bordered-square.pink { background:#CA187D; }
 
-.fullwidth-bg{ background: rgba(202, 24, 125, 0.9); padding: 30px 0;}
+.fullwidth-bg{ background: rgba(202, 24, 125, 0.8); padding: 30px 0;}
+/*.fullwidth-bg{
+    background: rgba(51, 51, 52, 0.9);
+    padding: 30px 0;
+}*/
 
 .jps-proofpoints h5 a, .jps-proofpoints h5 a:hover{
 	color:#f0cde1;
@@ -54,8 +71,26 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
 	margin-top: 30px;
 }
 .menu-thumb .rounded, .dt-sc-one-column .dt-sc-catalog-menu.type1 .rounded {
-    height: 130px;
-    width: 130px;
+   /* height: 60px;
+    width: 60px;*/
 }
-
-	
+#footer {
+    background: #f5f5f5;
+    border-top: 1px solid #ededed;
+}
+.footer-logo img {
+    border: 1px solid #ededed;
+}
+#logo{
+    width:10%;
+}
+#main-menu {
+    width: 90%;
+}
+.ico-border:before, .ico-border:after {
+    height: 2px;
+    top: 10px;
+}
+#loading{
+ background: rgba(51, 51, 52, 1)!important;
+}
