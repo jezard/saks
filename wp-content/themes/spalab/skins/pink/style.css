@@ -16,7 +16,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hov
 
 .dt-sc-gift-cards .dt-sc-gift.product:hover .price, .dt-sc-gift-cards .dt-sc-gift.product.selected .price, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details, .skin-bg.parallax-section .fullwidth-bg { background: rgba(202, 100, 158, 0.9); }
 
-.dt-sc-gift-cards .dt-sc-gift.product .product-thumb a .img-overlay  { background: rgba(51, 51, 52, 0.9); }
+.dt-sc-gift-cards .dt-sc-gift.product .product-thumb a .img-overlay  { background: rgba(202, 103, 159, 0.4); }
 
 .dt-sc-callout-box.type5, .dt-sc-team:hover, ul.time-table > li:after { background: #fbe8f3; }
 
@@ -32,6 +32,14 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hov
 
 
 /*----*****---- << Border Color >> ----*****----*/
+
+.dt-sc-colored-box {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e51c1e+0,c9207f+53,c9207f+53&0.79+0,0.8+100 */
+    background: -moz-linear-gradient(top, rgba(229,28,30,0.79) 0%, rgba(201,32,127,0.8) 53%, rgba(201,32,127,0.8) 100%)!important; /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(229,28,30,0.79) 0%,rgba(201,32,127,0.8) 53%,rgba(201,32,127,0.8) 100%)!important; /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(229,28,30,0.79) 0%,rgba(201,32,127,0.8) 53%,rgba(201,32,127,0.8) 100%)!important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9e51c1e', endColorstr='#ccc9207f',GradientType=0 )!important; /* IE6-9 */
+}
 
 input[type="submit"], button, input[type="button"], #main-menu > ul.menu.with-hover-style > li > a:hover, #main-menu > ul.menu.with-hover-style > li:hover > a, #main-menu > ul.menu.with-hover-style > li.current_page_item > a, #main-menu > ul.menu.with-hover-style > li.current_page_ancestor > a, #main-menu > ul.menu.with-hover-style > li.current-menu-item > a, #main-menu > ul.menu.with-hover-style > li.current-menu-ancestor > a, #main-menu ul.menu.with-hover-style li.menu-item-simple-parent ul li a:before, #main-menu ul.menu.with-hover-style .megamenu-child-container ul.sub-menu > li > ul li a:before, #main-menu ul.menu.with-hover-style li.menu-item-simple-parent ul li a:after, #main-menu ul.menu.with-hover-style .megamenu-child-container ul.sub-menu > li > ul li a:after, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget_nav_menu ul li a:before, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget_nav_menu ul li a:after, .megamenu-child-container > ul.sub-menu > li > a, .megamenu-child-container > ul.sub-menu > li > .nolink-menu, .dt-sc-button, .dt-sc-callout-box.type4, .dt-sc-callout-box.type5, .pagination ul li a, .pagination .next-post a, .pagination .prev-post a, .pagination ul li.active-page, .dt-sc-pr-tb-col.selected, .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col.selected, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col:hover, .megamenu-child-container, #main-menu ul li.menu-item-simple-parent ul, #main-menu ul li.menu-item-simple-parent ul li ul, ul.commentlist li .comment-author img, #slider, .dt-sc-toggle-frame h5.dt-sc-toggle a, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion a, .dt-sc-pullquote5, .dt-sc-pullquote6, .is-sticky #header, .dt-sc-ico-content.type6:hover .icon span, .dt-sc-ico-content.type7 .icon, .entry-meta .comments, blockquote, blockquote.type2, .dt-sc-testimonial .author img, .menu-list:hover .menu-thumb .rounded, .dt-sc-catalog-menu:hover .rounded, .tagcloud a, #footer .dt-sc-social-icons li:hover img, .floral-head, .dt-sc-box-title, .dt-sc-ico-content.type6 .icon .fa, .dt-sc-team .image img { border-color: #dd84b7; }
 

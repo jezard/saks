@@ -1721,7 +1721,7 @@ only screen and (min-resolution: 1.5dppx) {
 	select { background-image: url("images/select-box@2x.jpg"); background-size: 44px 48px; }
 	.searchform input[type="submit"], #searchform input[type="submit"] { background-image: url("images/ico-search@2x.png"); background-size: 15px 15px; } 
 	#secondary .widget h3.widgettitle:after, #primary .widget h3.widgettitle:after, .ico-border-title.flower:after { background-image: url("images/ico-flower-medium@2x.png"); background-size: 15px 15px; }
-	#header:after { background-image: url("images/header-bg.png"); background-size: 290px 129px; }
+	#header:after { background-image: url("images/header-bg@2x.png"); background-size: 290px 129px; }
 	.portfolio .image-overlay { background-image: url("images/transparent-bg@2x.png"); background-size: 2px 2px; }
 	.bx-controls a.bx-prev { background-image: url("images/portfolio-slider-arrow-left@2x.png"); }
 	.bx-controls a.bx-next { background-image: url("images/portfolio-slider-arrow-right@2x.png"); }
