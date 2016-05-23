@@ -20,6 +20,11 @@ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .dt-sc-gift-cards li
     font-weight: 300;
     letter-spacing: 1px;
 }
+
+
+.border-title .tag-line{
+    font-size: 18px;
+}
 /*Updated scripty font*/
 #bbar-wrapper.type1, #bbar-wrapper.type1 i, #bbar-wrapper.type1 a, #bbar-wrapper.type1 .bbar-text, #bbar-wrapper.type4, #bbar-wrapper.type4 i, #bbar-wrapper.type4 a, #bbar-wrapper.type4 .bbar-text, #bbar-wrapper.type5, #bbar-wrapper.type5 i, #bbar-wrapper.type5 a, #bbar-wrapper.type5 .bbar-text {
     color: rgba(255, 255, 255, 0.64);
@@ -68,6 +73,9 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
     background: -webkit-linear-gradient(top, rgba(229,28,30,0.79) 0%,rgba(201,32,127,0.8) 53%,rgba(201,32,127,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom, rgba(229,28,30,0.79) 0%,rgba(201,32,127,0.8) 53%,rgba(201,32,127,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9e51c1e', endColorstr='#ccc9207f',GradientType=0 ); /* IE6-9 */
+}
+.no-bg .fullwidth-bg{
+    background: none!important;
 }
 
 #header.header1{
@@ -121,6 +129,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9207f', end
  background: rgba(51, 51, 52, 1)!important;
 }
 /*footer*/
+#footer .widget.tweetbox .tweet-time{
+    color: #2d2d29;
+}
 #footer .ico-border .ico-bg {
     background-position: left top;
 }
@@ -138,3 +149,26 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9207f', end
 .copyright{
     background-color: #333334!important;
 }
+
+#footer .widget h3.widgettitle .ico-bg {
+    background-image: url(images/ico-flower-medium.png);
+    height: 21px;
+    margin-left: 8px;
+    opacity: 0.1;
+    filter: alpha(opacity=10);
+    width: 42px;
+}
+#footer .copyright p, #footer .copyright div, #footer .copyright a {
+    color: rgba(255, 255, 255, 0.64);
+}
+@media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, only screen and (min-resolution: 1.5dppx){
+#footer .widget h3.widgettitle .ico-bg {
+    background-image: url("images/ico-flower-medium@2x.png");
+    background-size: 42px 21px;
+}
+}
+.ico-bg{
+    margin-bottom: -6px;
+}
+
+
