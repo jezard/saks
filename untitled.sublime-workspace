@@ -1,0 +1,1143 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"result",
+				"resultArray"
+			],
+			[
+				"case",
+				"case_id"
+			],
+			[
+				"pupil_sen",
+				"pupil_sen_provision_id"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"staff",
+				"staff_record"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"client",
+				"client_case"
+			],
+			[
+				"cases",
+				"cases_model"
+			],
+			[
+				"has_",
+				"has_psc"
+			],
+			[
+				"date",
+				"date-sel"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"filter",
+				"filter_val"
+			],
+			[
+				"staf",
+				"staff"
+			],
+			[
+				"fir",
+				"first_record_post"
+			],
+			[
+				"firs",
+				"first_record_pos"
+			],
+			[
+				"duplicate",
+				"duplicate_client_ids"
+			],
+			[
+				"base",
+				"base_client_id"
+			],
+			[
+				"schools",
+				"schools_model"
+			],
+			[
+				"show_re",
+				"show_record"
+			],
+			[
+				"school",
+				"school_id"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"date_of",
+				"date_of_birth"
+			],
+			[
+				"one",
+				"one_page_profile"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"year",
+				"year_group"
+			],
+			[
+				"admin",
+				"admin_user"
+			],
+			[
+				"user",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/spalab-child/style.css",
+			"settings":
+			{
+				"buffer_size": 6226,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 910 files for \"blog-entry\"\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/archive.php:\n   50                  <div class=\"<?php echo esc_attr( $temp_class ); ?>\">\n   51                  	<!-- #post-<?php the_ID()?> starts -->\n   52:                     <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   53:                     	<!-- .blog-entry-inner -->\n   54:                         <div class=\"blog-entry-inner\">\n   55                          \n   56                          	<!-- .entry-meta -->\n   ..\n  152                              </div><!-- .entry-details -->\n  153                              \n  154:                         </div><!-- .blog-entry-inner -->\n  155                      </article><!-- #post-<?php the_ID()?> Ends -->\n  156                  </div>\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/author.php:\n   50                  <div class=\"<?php echo esc_attr( $temp_class ); ?>\">\n   51                  	<!-- #post-<?php the_ID()?> starts -->\n   52:                     <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   53:                     	<!-- .blog-entry-inner -->\n   54:                         <div class=\"blog-entry-inner\">\n   55                          \n   56                          	<!-- .entry-meta -->\n   ..\n  153                              </div><!-- .entry-details -->\n  154                              \n  155:                         </div><!-- .blog-entry-inner -->\n  156                      </article><!-- #post-<?php the_ID()?> Ends -->\n  157                  </div>\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/category.php:\n   50                  <div class=\"<?php echo esc_attr( $temp_class ); ?>\">\n   51                  	<!-- #post-<?php the_ID()?> starts -->\n   52:                     <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   53:                     	<!-- .blog-entry-inner -->\n   54:                         <div class=\"blog-entry-inner\">\n   55                          \n   56                          	<!-- .entry-meta -->\n   ..\n  153                              </div><!-- .entry-details -->\n  154                              \n  155:                         </div><!-- .blog-entry-inner -->\n  156                      </article><!-- #post-<?php the_ID()?> Ends -->\n  157                  </div>\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-single.php:\n   40          <section id=\"primary\" class=\"<?php echo esc_attr( $post_layout );?>\">\n   41              <!-- #post-<?php the_ID()?> starts -->\n   42:             <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   43              \n   44:             	<div class=\"blog-entry-inner\">\n   45                  \n   46                  	<div class=\"entry-meta\">\n   ..\n  167                      </div><!--.entry-details -->\n  168                       \n  169:                 </div><!-- .blog-entry-inner -->\n  170                  \n  171              </article><!-- #post-<?php the_ID()?> Ends -->\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content.php:\n    1  <!-- #post-<?php the_ID()?> starts -->\n    2: <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n    3: 	<div class=\"blog-entry-inner\">\n    4      \n    5          <div class=\"entry-meta\">\n    .\n   84          </div><!-- .entry-details -->\n   85        \n   86:     </div><!-- .blog-entry-inner-->\n   87  </article><!-- #post-<?php the_ID()?> Ends -->\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/sociable_shortcodes.php:\n  194  	$title = $p['post_title'];\n  195  	$author_id = $p['post_author'];\n  196: 	$class = get_post_class(\"blog-entry\",$id);\n  197  	$class = implode(\" \",$class);\n  198  	$post_format = get_post_format($id);\n  ...\n  212  	\n  213  	$out =  \"<article class='{$class}'>\";\n  214: 	$out .= '	<div class=\"blog-entry-inner\">';\n  215  	\n  216  	$out .= '		<div class=\"entry-meta\">';\n  ...\n  342  				\n  343  			$out .= $class;\n  344: 			$out .=  \"<article class='postid- {$id} author- {$author} format-{$post_format} blog-entry'>\";\n  345: 			$out .= '	<div class=\"blog-entry-inner\">';\n  346  			\n  347  			$out .= '		<div class=\"entry-meta\">';\n  ...\n  476  				\n  477  			$out .= $class;\n  478: 			$out .=  \"<article class='postid- {$id} author- {$author} format-{$post_format} blog-entry'>\";\n  479: 			$out .= '	<div class=\"blog-entry-inner\">';\n  480  			\n  481  			$out .= '		<div class=\"entry-meta\">';\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/responsive.css:\n  569  		\n  570  		/*----*****---- << Blog >> ----*****----*/	\n  571: 		.blog-entry-inner { padding: 0 0 0 62px; }\n  572  		.entry-meta { margin: 0 10px 0 0; width: 50px; }\n  573  		.dt-sc-one-third .entry-metadata p { margin-right:0px; }\n  ...\n 1666  		/*----*****---- << Blog >> ----*****----*/	\n 1667  		\n 1668: 		.blog-entry-inner { padding: 0 0 0 62px; }\n 1669  		.entry-meta { width: 50px; }\n 1670  		.entry-details .entry-title h4 { font-size: 16px; }		\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/rtl.css:\n  336  .entry-meta { right: 0; margin: 0 0 0 20px; left: auto; } \n  337  .entry-meta .comments span { margin-left: 5px; margin-right: auto; } \n  338: .blog-entry { float:right; } \n  339: .blog-entry-inner { padding:0px 80px 0px 0px; } \n  340  .entry-thumb .entry-thumb-desc { background: -webkit-gradient(linear, right top, right bottom, color-stop(0%,rgba(0, 0, 0,0)), color-stop(100%,rgba(0, 0, 0, 0.7))); right: 0; left: auto; } \n  341  .entry-thumb p { right:0; left:0; } \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/search.php:\n   50                  <div class=\"<?php echo esc_attr( $temp_class ); ?>\">\n   51                  	<!-- #post-<?php the_ID()?> starts -->\n   52:                     <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   53:                     	<!-- .blog-entry-inner -->\n   54:                         <div class=\"blog-entry-inner\">\n   55                          \n   56                          	<!-- .entry-meta -->\n   ..\n  152                              \n  153                              </div><!-- .entry-details -->                        \n  154:                         </div><!-- .blog-entry-inner -->\n  155                      </article><!-- #post-<?php the_ID()?> Ends -->\n  156                  </div>\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/blue/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #4bbcd7; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #2ba6c4; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/chocolate/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #cd661d; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #a05017; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/coral/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #ff7f50; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #ff6c37; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/cyan/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #00cdcd; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #009a9a; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/eggplant/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #614051; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #422c37; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/electricblue/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #536878; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #3e4e5a; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/ferngreen/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #4f7942; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #395830; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/gold/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #e0a81c; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #b38616; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/green/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #7aa127; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #5b781d; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/grey/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #8e8e8e; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #757575; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/khaki/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #b6af55; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #979141; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/ocean/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #1abc9c; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #148f77; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/orange/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #f39d12; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #c87f0a; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/palebrown/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #987654; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #775d42; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/pink.old/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #e67fb9; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #de54a2; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/pink/style.css:\n    6  /*SAKS Pink: #CA187D, RGB 202, 88, 79 */\n    7  \n    8: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #CA187D; }\n    9  \n   10   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #ca5899; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/purple/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #72448d; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #5c3474; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/raspberry/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #a23b6f; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #7d2d55; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/red/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #e74d3c; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #d62d1a; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/skyblue/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #00bfff; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #0099cc; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/slateblue/style.css:\n    5  /*----*****---- << Color >> ----*****----*/\n    6  \n    7: h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span, .error-info h2 { color: #836fff; }\n    8  \n    9   ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #6d56ff; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/style.css:\n   85  	/*----*****---- << Transition >> ----*****----*/\n   86  	\n   87: 	a, input[type=submit], button, input[type=button], .widget ul li, #secondary .widget h3.widgettitle, #secondary .widget h3.widgettitle a:before, #secondary h2.filtering, #secondary h2.filtering span:before, #top-bar .phone-no, .dt-sc-social-icons li img, #main-menu ul li, #main-menu > ul > li > ul:before, #main-menu ul ul li ul:before, .slider-next-arrow, .dt-sc-ico-content.type2 .icon, .carousel-arrows a span, .portfolio .portfolio-thumb img, .blog-entry .entry-thumb-meta .entry-meta span, .side-nav-container ul li a span, .partner-carousel li, .carousel-arrows a:hover span, .dt-sc-testimonial .author img, .dt-sc-testimonial .author img:hover, .portfolio .portfolio-detail .views, h5.dt-sc-toggle:before, h5.dt-sc-toggle-accordion:before, ul.side-nav li a:before, .megamenu-child-container > ul.sub-menu > li > a .menu-item-description, .widget ul li, .widget_categories ul li a span, .widget.widget_archive ul li a span, .datepicker td span, .datepicker td, .datepicker th { -webkit-transition:all 300ms linear; -moz-transition:all 300ms linear; -o-transition:all 300ms linear; -ms-transition:all 300ms linear; transition:all 300ms linear; }\n   88  	\n   89  	.social-share-icons li img { transition: opacity .5s ease-in-out; -moz-transition: opacity .5s ease-in-out; -webkit-transition: opacity .5s ease-in-out; }\n   ..\n  986  		.fullwidth-section .entry-meta .comments { margin: 0; padding: 2px 0; }\n  987  		\n  988: 		.fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a, .fullwidth-section.light-bg .blog-entry .entry-details .entry-body { color: #2d2d29; }\n  989  		.fullwidth-section.dark-bg .border-title h1:after, .fullwidth-section.dark-bg .border-title h2:after, .fullwidth-section.dark-bg .border-title h3:after, .fullwidth-section.dark-bg .border-title h4:after, .fullwidth-section.dark-bg .border-title h5:after, .fullwidth-section.dark-bg .border-title h6:after	{ background: #d9d9d9; }\n  990  		.fullwidth-section.dark-bg .gift-form input[type=\"email\"], .fullwidth-section.dark-bg .gift-form input[type=\"text\"], .gift-form input[type=\"date\"], .fullwidth-section.dark-bg .gift-form textarea { background: none; }\n  991  		\n  992: 		.fullwidth-section.dark-bg, .fullwidth-section.dark-bg .border-title h2, .fullwidth-section.dark-bg h2, .fullwidth-section.dark-bg h3, .fullwidth-section.dark-bg h4, .fullwidth-section.dark-bg h5, .fullwidth-section.dark-bg h6, .fullwidth-section.dark-bg .blog-entry .entry-details .entry-title h4 a, .fullwidth-section.dark-bg .blog-entry .entry-details .entry-metadata a, .fullwidth-section.dark-bg .blog-entry .entry-details .entry-body, .fullwidth-section.dark-bg .gift-frm label, .fullwidth-section.dark-bg  .dt-sc-team .email, .fullwidth-section.dark-bg  .dt-sc-team .email a:hover, .fullwidth-section.dark-bg .dt-sc-gift-cards .dt-sc-gift.product:hover .price, .fullwidth-section.dark-bg .dt-sc-gift-cards .dt-sc-gift.product.selected .price, .fullwidth-section.dark-bg .gift-form label, .fullwidth-section.dark-bg .entry-details .entry-metadata span, .fullwidth-section.dark-bg h5.dt-sc-toggle a, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a, .fullwidth-section.dark-bg .dt-sc-ico-content.type7 .icon span, .fullwidth-section.dark-bg .dt-sc-ico-content.type7 h5 a:hover, .fullwidth-section.dark-bg #newsletter input[type=\"email\"], .fullwidth-section.dark-bg .gift-form input[type=\"text\"], .gift-form input[type=\"date\"], .fullwidth-section.dark-bg .gift-form textarea { color: #fff; }\n  993  		\n  994  		.fullwidth-section.dark-bg .border-title .tag-line { color: #e6e6e6; }\n  ...\n 1289  		.format-status .entry-meta .entry_format:after { content:\"\\f075\"; }\n 1290  		\n 1291: 		.blog-entry { clear:both; float:left; margin:0px 0px 40px; position:relative; width:100%; }\n 1292: 		.blog-entry-inner { padding:0px 0px 0px 80px; min-height:155px; }\n 1293  		\n 1294  		.entry-thumb { display: block; line-height: 0; margin: 0 0 40px; overflow: hidden; position: relative; }\n ....\n 1314  		\n 1315  		\n 1316: 		.blog-entry:hover .entry-thumb .entry-thumb-desc { opacity: 1; filter: alpha(opacity=100); }\n 1317: 		.blog-entry:hover .entry-thumb img { transform: scale(1.1); -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -ms-transform: scale(1.1); -o-transform: scale(1.1); }		\n 1318: 		.blog-entry:hover .entry-thumb p { opacity:1; transform:translate3d(0,0,0); -webkit-transform:translate3d(0,0,0); -moz-transform:translate3d(0,0,0); -ms-transform:translate3d(0,0,0); -o-transform:translate3d(0,0,0); }		\n 1319  \n 1320: 		.format-gallery .entry-thumb img, .blog-entry.format-gallery:hover .entry-thumb img { transform: none; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; }\n 1321  		.format-gallery .entry-thumb-desc, .format-video .entry-thumb-desc, .format-audio .entry-thumb-desc	{ display: none; }		\n 1322  		\n ....\n 1630  	\n 1631  	.ie9 .entry-thumb .entry-thumb-desc { background: rgba(0, 0, 0, 0.3); height: 100%; }\n 1632: 	.ie9 .blog-entry:hover .entry-thumb .entry-thumb-desc p { opacity: 1; filter: alpha(opacity=100); }\n 1633  	\n 1634  	_:-ms-input-placeholder, :root .breadcrumb-section .searchform input[type='submit'] { padding: 21px 15px 20px; }\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/tpl-blog.php:\n   96                              \n   97                                  <!-- #post-<?php the_ID()?> starts -->\n   98:                                 <article id=\"post-<?php the_ID(); ?>\" <?php post_class('blog-entry'); ?>>\n   99                                  \n  100:                                 	<div class=\"blog-entry-inner\">\n  101                                      	<div class=\"entry-meta\">\n  102                                          	<a href=\"<?php the_permalink();?>\" title=\"<?php printf(esc_attr__('%s'),the_title_attribute('echo=0'));?>\" class=\"entry_format\"> </a>\n\n89 matches across 32 files\n",
+			"settings":
+			{
+				"buffer_size": 85176,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "[dt_sc_h1_title title=\"Welcome to Saks, Plymouth\" description=\"Lorem ipsum dolor sit amet.\" class=\"\"]\n\n[dt_sc_fullwidth_section backgroundcolor=\"#CA187D\" background image= \"http://s3-eu-west-1.amazonaws.com/saksplymouth/wp-content/uploads/2016/05/16154722/photodune-5169494-woman-getting-spa-treatment-m.jpg\" parallax=\"yes\" backgroundrepeat=\"no-repeat\" backgroundposition=\"left top\" paddingtop=\"20\"\npaddingbottom=\"20\" textcolor=\"#ffffff\"]Lorem [/dt_sc_fullwidth_section]\n[dt_sc_one_half first][dt_sc_h2_title title=\"Feel Fab\"]\n\nAs well as keeping you looking gorgeous and feeling fab, we like to help you learn more about your beauty regime and general well-being, so as well as the advice our therapists offer you during treatments, we also provide leaflets to help understand how to make the most of you!\n\nWe offer a wide range of beauty and cosmetic treatments in an attractive and convenient environment, including:\n\n[dt_sc_fancy_ul style=\"rounded-tick\" variation=\"pink\"]\n<ul>\n 	<li>Waxing - for men and women</li>\n 	<li>Eyelashes and Eyebrow threading</li>\n 	<li>Body treatment and massage</li>\n 	<li>Facials and glycolic peels</li>\n 	<li>Microdermabrasion</li>\n 	<li>Manicures, pedicures and Gellish nails</li>\n 	<li>Bridal and wedding packages</li>\n 	<li>Spa days and pampering packages</li>\n 	<li>Free parking at the Holiday Inn for clients</li>\n</ul>\n[/dt_sc_fancy_ul]\n\nA session or package at Ocean Beauty Salon makes an ideal present, so we also offer gift vouchers.\n\nWe have a great loyalty scheme and regular offers to make your money go further, and we pride ourselves on the friendliness of our beauty therapist in the salon, and on keeping up-to-date with treatments.\n\nSo do visit Ocean Beauty Salon, and why not make a day of it at the Holiday Inn, enjoying the swimming pool and the great views overloooking Plymouth Hoe.\n\nNon members and hotel guests welcome. Please arrive 15 minutes prior to your treatment and 30 minutes prior to a Spa Day.\n\n<span style=\"line-height: 1.5;\">[/dt_sc_one_half]</span>\n\n[dt_sc_one_half][dt_sc_h2_title title=\"Opening Hours\"]\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\n<tbody>\n<tr>\n<th>Day</th>\n<th>Open</th>\n<th>Close</th>\n</tr>\n<tr>\n<td>Monday</td>\n<td>10am</td>\n<td>4pm</td>\n</tr>\n<tr>\n<td>Tuesday</td>\n<td>10am</td>\n<td>6pm</td>\n</tr>\n<tr>\n<td>Wednesday</td>\n<td>10am</td>\n<td>7pm</td>\n</tr>\n<tr>\n<td>Thursday</td>\n<td>10am</td>\n<td>7pm</td>\n</tr>\n<tr>\n<td>Friday</td>\n<td>9.30am</td>\n<td>6pm</td>\n</tr>\n<tr>\n<td>Saturday</td>\n<td>9.30am</td>\n<td>5pm</td>\n</tr>\n<tr>\n<td>Sunday</td>\n<td colspan=\"2\">\n<div align=\"center\">Closed</div></td>\n</tr>\n</tbody>\n</table>\n[dt_sc_icon_box_colored fontawesome_icon='phone-square' title='Book an appointment or find out more' bgcolor='#CA187D' ]\nSpeak with one of our friendly team: 01752 123456\n[dt_sc_button link=\"tel:01752123456\" size=\"small\" target=\"_blank\"]Call us now[/dt_sc_button]\n[/dt_sc_icon_box_colored]\n<h3></h3>\n[/dt_sc_one_half]",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"line_ending": "Unix",
+				"name": "[dt_sc_h1_title title=\"Welcome to Saks, Plymouth\""
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/skins/pink/style.css",
+			"settings":
+			{
+				"buffer_size": 15701,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/functions.php",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/functions.php",
+			"settings":
+			{
+				"buffer_size": 992,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/tpl-catalog.php",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/framework/loops/content-catalog-post-layout.php",
+			"settings":
+			{
+				"buffer_size": 3861,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/style.css",
+			"settings":
+			{
+				"buffer_size": 207361,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Toggle Block Comment"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 83.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/google_fonts.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-catalog-post-layout.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/framework/loops/content-catalog-post-layout.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/include.php",
+		"/Users/Jeremy/Projects/saks/wp-config.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/rtl.css",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/register_custom_attributes_in_menu.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/pink/style.css",
+		"/Users/Jeremy/Projects/pec/application/views/includes/case-filter.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/cases/list.php",
+		"/Users/Jeremy/Projects/pec/Late-2015-16-updates.sql",
+		"/Users/Jeremy/Projects/pec/application/views/admin/cases/edit.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/cases/add.php",
+		"/Users/Jeremy/Projects/pec/application/models/case_worker_meta_model.php",
+		"/Users/Jeremy/Projects/pec/application/views/staff/cases/view.php",
+		"/Users/Jeremy/Projects/pec/application/views/school/cases/view.php",
+		"/Users/Jeremy/Projects/pec/assets/css/admin/admin.css",
+		"/Users/Jeremy/Projects/pec/application/views/admin/stats/page.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/admin/stats.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/admin/cases.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/staff/cases.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/school/cases.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/school/dashboard.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/staff/dashboard.php",
+		"/Users/Jeremy/Projects/pec/application/config/constants.php",
+		"/Users/Jeremy/Projects/pec/assets/js/admin.js",
+		"/Users/Jeremy/Projects/pec/application/models/cases_model.php",
+		"/Users/Jeremy/Projects/pec/application/views/school/dashboard/page.php",
+		"/Users/Jeremy/Projects/pec/application/views/staff/dashboard/page.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/cron/update_year_group.php",
+		"/Users/Jeremy/Projects/pec/application/views/school/cases/list.php",
+		"/Users/Jeremy/Projects/pec/application/views/staff/cases/list.php",
+		"/Users/Jeremy/Dropbox/CurrentProjects/SetSquare/ssh-access.txt",
+		"/Users/Jeremy/Dropbox/CurrentProjects/SetSquare/Setsquare Solutions LastPass 2014-12-01.xls",
+		"/Users/Jeremy/Dropbox/CurrentProjects/SetSquare/AllProjects/setsquare",
+		"/Users/Jeremy/Projects/pec/application/views/school/cases/print.php",
+		"/Users/Jeremy/Projects/pec/application/views/staff/cases/print.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/cases/print.php",
+		"/Users/Jeremy/Projects/pec/application/views/school/cases/notes.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/admin/merge_clients.php",
+		"/Users/Jeremy/Projects/pec/application/config/routes.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/merge_clients.php",
+		"/Users/Jeremy/Projects/pec/application/models/clients_model.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/includes/header.php",
+		"/Users/Jeremy/Projects/pec/application/models/schools_model.php",
+		"/Users/Jeremy/Projects/pec/application/config/config.php",
+		"/Users/Jeremy/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/Jeremy/Projects/pec/application/models/staff_model.php",
+		"/Users/Jeremy/Dropbox/Servers/Amazon CLI/peakwizard",
+		"/Users/Jeremy/Projects/pec/application/models/timesheets_model.php",
+		"/Users/Jeremy/Projects/pec/application/views/admin/staff/edit.php",
+		"/Users/Jeremy/Projects/pec/application/controllers/admin/staff.php",
+		"/Users/Jeremy/Projects/pec/info.php",
+		"/Users/Jeremy/Projects/pec/.gitignore",
+		"/Users/Jeremy/Projects/pec/application/controllers/admin/users.php",
+		"/Users/Jeremy/Projects/pec/application/models/users_model.php",
+		"/Users/Jeremy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Jeremy/Projects/supply/class/database.php",
+		"/Users/Jeremy/Projects/supply/.htaccess",
+		"/Users/Jeremy/Projects/supply/apply/supplyspecific.php",
+		"/Users/Jeremy/Projects/supply/database/supplyspecific.php",
+		"/Users/Jeremy/Projects/supply/index.php",
+		"/Users/Jeremy/Projects/test/index.html",
+		"/Users/Jeremy/Projects/example.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Jeremy/Projects/saks/wp-content/themes/spalab",
+			"<open files>,/Users/Jeremy/Projects/saks/wp-content/themes/spalab",
+			"<open files>,/Users/Jeremy/Projects/pec",
+			"<open files>",
+			"/Users/Jeremy/Projects/pec",
+			"/Users/Jeremy/Projects/supply"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blog-entry",
+			"white",
+			"Dafoe",
+			"menu-title",
+			".php",
+			"dt-sc-specials-list",
+			"catalog",
+			"wp_query",
+			"catalog",
+			"register_post_type",
+			"catalog",
+			"fullwidth",
+			"pink",
+			"#e67fb9",
+			"print",
+			"get_case_by_id",
+			"print",
+			"get_case_by_id",
+			"print_r",
+			"pupil_sen_provision_options",
+			"pupil sen",
+			"pupil_sen_provision_id",
+			"update",
+			"provision",
+			"sen",
+			"select some options",
+			"store_case",
+			"number of sessions",
+			"($",
+			"sdfsdfsefewrew",
+			"level",
+			", 'class=\"span2 combobox\"'",
+			";\n",
+			"case_staff",
+			"(<?=$",
+			"order_by",
+			"options_ehc",
+			"options",
+			"global",
+			"provision",
+			"ehc",
+			"provision",
+			"sen areas",
+			"SEN",
+			"sen areas",
+			"past",
+			"400",
+			"has",
+			"count_cases",
+			"@",
+			"staff_record",
+			"referral_on",
+			"form",
+			"$can",
+			"you cannot alter",
+			"notes",
+			"view",
+			"one",
+			"One",
+			"one",
+			"social",
+			"date exit",
+			"case exited",
+			"date exit",
+			">\n",
+			"></",
+			"desc",
+			"family",
+			"print_r",
+			")  ",
+			"has",
+			"cases",
+			"has_exited",
+			"active_cases_per_staff_member",
+			"active\nactive_cases_per_staff_member",
+			"stats",
+			"past_social_care_involvement",
+			"case_exited",
+			"case",
+			"case[0]",
+			"start",
+			"referral",
+			"social_care_involvement",
+			"individual_work",
+			"sen areas",
+			"other",
+			"sen",
+			"hidden",
+			"case_school_history",
+			"level_of",
+			"Previous Schools",
+			"{",
+			"legacy",
+			"total_exited_cases",
+			"active cases",
+			"not applicable",
+			"outcome not recognised",
+			"group",
+			"login",
+			"sslsessioncache",
+			"engine",
+			"soc",
+			"ssl",
+			"test.supplyplus.org.uk"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"type",
+			"",
+			"type",
+			"families",
+			"has_exited"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/spalab-child/style.css",
+					"settings":
+					{
+						"buffer_size": 6226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5786,
+								5786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1334.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 85176,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										326,
+										336
+									],
+									[
+										378,
+										388
+									],
+									[
+										442,
+										452
+									],
+									[
+										696,
+										706
+									],
+									[
+										1109,
+										1119
+									],
+									[
+										1161,
+										1171
+									],
+									[
+										1225,
+										1235
+									],
+									[
+										1479,
+										1489
+									],
+									[
+										1894,
+										1904
+									],
+									[
+										1946,
+										1956
+									],
+									[
+										2010,
+										2020
+									],
+									[
+										2264,
+										2274
+									],
+									[
+										2697,
+										2707
+									],
+									[
+										2767,
+										2777
+									],
+									[
+										2985,
+										2995
+									],
+									[
+										3288,
+										3298
+									],
+									[
+										3326,
+										3336
+									],
+									[
+										3485,
+										3495
+									],
+									[
+										3756,
+										3766
+									],
+									[
+										3948,
+										3958
+									],
+									[
+										4158,
+										4168
+									],
+									[
+										4205,
+										4215
+									],
+									[
+										4419,
+										4429
+									],
+									[
+										4466,
+										4476
+									],
+									[
+										4689,
+										4699
+									],
+									[
+										4934,
+										4944
+									],
+									[
+										5291,
+										5301
+									],
+									[
+										5328,
+										5338
+									],
+									[
+										5905,
+										5915
+									],
+									[
+										5957,
+										5967
+									],
+									[
+										6021,
+										6031
+									],
+									[
+										6299,
+										6309
+									],
+									[
+										9347,
+										9357
+									],
+									[
+										9427,
+										9437
+									],
+									[
+										12813,
+										12823
+									],
+									[
+										12893,
+										12903
+									],
+									[
+										16275,
+										16285
+									],
+									[
+										16355,
+										16365
+									],
+									[
+										19736,
+										19746
+									],
+									[
+										19816,
+										19826
+									],
+									[
+										23201,
+										23211
+									],
+									[
+										23281,
+										23291
+									],
+									[
+										26670,
+										26680
+									],
+									[
+										26750,
+										26760
+									],
+									[
+										30136,
+										30146
+									],
+									[
+										30216,
+										30226
+									],
+									[
+										33597,
+										33607
+									],
+									[
+										33677,
+										33687
+									],
+									[
+										37059,
+										37069
+									],
+									[
+										37139,
+										37149
+									],
+									[
+										40520,
+										40530
+									],
+									[
+										40600,
+										40610
+									],
+									[
+										43982,
+										43992
+									],
+									[
+										44062,
+										44072
+									],
+									[
+										47444,
+										47454
+									],
+									[
+										47524,
+										47534
+									],
+									[
+										50907,
+										50917
+									],
+									[
+										50987,
+										50997
+									],
+									[
+										54373,
+										54383
+									],
+									[
+										54453,
+										54463
+									],
+									[
+										57838,
+										57848
+									],
+									[
+										57918,
+										57928
+									],
+									[
+										61296,
+										61306
+									],
+									[
+										61376,
+										61386
+									],
+									[
+										64759,
+										64769
+									],
+									[
+										64839,
+										64849
+									],
+									[
+										68225,
+										68235
+									],
+									[
+										68305,
+										68315
+									],
+									[
+										71685,
+										71695
+									],
+									[
+										71765,
+										71775
+									],
+									[
+										75149,
+										75159
+									],
+									[
+										75229,
+										75239
+									],
+									[
+										78615,
+										78625
+									],
+									[
+										78695,
+										78705
+									],
+									[
+										79741,
+										79751
+									],
+									[
+										80751,
+										80761
+									],
+									[
+										80825,
+										80835
+									],
+									[
+										81723,
+										81733
+									],
+									[
+										81796,
+										81806
+									],
+									[
+										81869,
+										81879
+									],
+									[
+										82962,
+										82972
+									],
+									[
+										83063,
+										83073
+									],
+									[
+										83288,
+										83298
+									],
+									[
+										83390,
+										83400
+									],
+									[
+										83575,
+										83585
+									],
+									[
+										83846,
+										83856
+									],
+									[
+										84267,
+										84277
+									],
+									[
+										84768,
+										84778
+									],
+									[
+										84878,
+										84888
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 635.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1166,
+								1166
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[dt_sc_h1_title title=\"Welcome to Saks, Plymouth\"",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/spalab/skins/pink/style.css",
+					"settings":
+					{
+						"buffer_size": 15701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12885,
+								12733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/spalab-child/functions.php",
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/spalab/functions.php",
+					"settings":
+					{
+						"buffer_size": 992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/spalab-child/tpl-catalog.php",
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/spalab-child/framework/loops/content-catalog-post-layout.php",
+					"settings":
+					{
+						"buffer_size": 3861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/spalab/style.css",
+					"settings":
+					{
+						"buffer_size": 207361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145661,
+								145661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 25454.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Jeremy/Projects/sublime/swts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true
+}

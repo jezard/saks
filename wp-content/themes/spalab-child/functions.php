@@ -16,3 +16,21 @@ function theme_typekit_inline() {
 <?php }
 }
 add_action( 'wp_head', 'theme_typekit_inline' );
+
+
+
+
+function google_fonts() {
+	$query_args = array(
+		'family' => 'Mr+Dafoe',
+	);
+	wp_register_style( 'google_fonts', add_query_arg( $query_args, "//fonts.googleapis.com/css" ), array(), null );
+            }
+            
+add_action('wp_enqueue_scripts', 'google_fonts');
+
+
+
+
+
+

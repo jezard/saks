@@ -400,7 +400,7 @@ function dttheme_appearance_load_fonts() {
 		$font .= ":300,400,400italic,700 %7C";
 	endif;
 	
-		$font .= "Lato:300,400,700%7CRaleway:400,500,300,600%7CTangerine:400,700%7CRoboto";
+		$font .= "Lato:300,400,700%7CRaleway:400,500,300,600%7CTangerine:400,700%7CRoboto%7CMr+Dafoe";
 		$protocol = is_ssl() ? 'https' : 'http';
 		$query_args = array('family' => $font, 'subset' => $subset);
 		wp_enqueue_style('mytheme-google-fonts', add_query_arg($query_args, "$protocol://fonts.googleapis.com/css" ), array(), null);
