@@ -184,7 +184,7 @@ section.breadcrumb-section.type2{
 /*Custom breadcrumbs*/
 #breadcrumbs{
     list-style:none;
-    margin:10px 0;
+    padding: 10px 0 0;
     overflow:hidden;
     font-family: "housefont","futura-pt"!important;
     text-transform: uppercase;
@@ -200,6 +200,12 @@ section.breadcrumb-section.type2{
     font-size:18px;
     font-weight:100;
     color:#ccc;
+}
+.bc-strip{
+    background: url("http://s3-eu-west-1.amazonaws.com/saksplymouth/wp-content/uploads/2016/05/31124828/polkatile1.png");
+}
+.bc-strip ul li {
+    padding-bottom: 5px;
 }
 
 #bbar-wrapper, #bbar-wrapper.type1, #bbar-wrapper.type1 i, #bbar-wrapper.type1 a, #bbar-wrapper.type4, #bbar-wrapper.type4 i, #bbar-wrapper.type4 a, #bbar-wrapper.type5, #bbar-wrapper.type5 i, #bbar-wrapper.type5 a {

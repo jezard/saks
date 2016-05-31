@@ -46,7 +46,7 @@ function custom_breadcrumbs() {
        
     // Do not display on the homepage
     if ( !is_front_page() ) {
-        echo '<div class="container">';
+        echo '<div class="bc-strip"><div class="container">';
        
         // Build the breadcrums
         echo '<ul id="' . $breadcrums_id . '" class="' . $breadcrums_class . '">';
@@ -255,7 +255,7 @@ function custom_breadcrumbs() {
         }
        
         echo '</ul>';
-    echo '</div>';
+    echo '</div></div>';
            
     }
 }

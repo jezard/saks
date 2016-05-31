@@ -186,21 +186,7 @@
                 endif;
             endif;
 			
-						$disable_breadcrumb = dttheme_option('general','disable-breadcrumb');
-						
-						if( empty($disable_breadcrumb) and ( !is_front_page() ) ):
-							global $post;
-							$show_slider = '';
-							if( !(is_null($post)) ) {
-								$tpl_default_settings = get_post_meta($post->ID, '_tpl_default_settings', TRUE);
-								$show_slider = isset($tpl_default_settings['show_slider']) ? TRUE : FALSE;
-							}
-
-							if(!is_page_template('tpl-home.php') && ($show_slider != TRUE ) ):
-								echo '<!-- **Breadcrumb** -->';
-								custom_breadcrumbs();
-							endif;
-						endif;
+			custom_breadcrumbs();
 			?>
             <?php if( !is_page_template( 'tpl-fullwidth.php' ) ):?>
                     <!-- ** Container ** -->
