@@ -57,7 +57,7 @@ h1, .border-title h2, .dt-sc-team h4{
 
 
 .bbar-text, .border-title .tag-line, .floral-head {
-    font-family: 'Mr Dafoe', cursive;
+    font-family: 'kinescope','Mr Dafoe', cursive;
     font-size: 20px;
 }
 .bbar-divider {
@@ -79,12 +79,15 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
 .dt-sc-dropcap.dt-sc-dropcap-default.pink { color:#CA187D; }
 .dt-sc-dropcap-circle.pink, .dt-sc-dropcap-bordered-circle.pink, .dt-sc-dropcap-square.pink, .dt-sc-dropcap-bordered-square.pink { background:#CA187D; }
 
-.fullwidth-bg{ background: rgba(202, 24, 125, 0.8); padding: 30px 0;}
+.fullwidth-bg{ 
+    /*background: rgba(202, 24, 125, 0.8); */
+    padding: 30px 0;
+}
 /*.fullwidth-bg{
     background: rgba(51, 51, 52, 0.9);
     padding: 30px 0;
 }*/
-.fullwidth-bg{ 
+.jps-proofpoints > .fullwidth-bg{ 
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e51c1e+0,c9207f+53,c9207f+53&0.79+0,0.8+100 */
     background: -moz-linear-gradient(top, rgba(229,28,30,0.79) 0%, rgba(201,32,127,0.8) 53%, rgba(201,32,127,0.8) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(top, rgba(229,28,30,0.79) 0%,rgba(201,32,127,0.8) 53%,rgba(201,32,127,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -108,8 +111,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9207f', end
 h1.dt-page-title {
     font-size: 36px;
 }
-.hr-title:after {
+h1.dt-page-title {
+    margin-top: 60px;
+}
+
+/*.hr-title:after {
     border: none;
+    top: 50%;
+}*/
+.hr-title:after {
+    border-top: 5px solid #F3D0E4;
+    top: 40%;
 }
 
 section.breadcrumb-section.type2{
@@ -123,7 +135,7 @@ section.breadcrumb-section.type2{
     }
 .breadcrumb-section.type2:after{
     /*background-color:transparent!important;*/
-    background-color: rgba(200, 200, 200, 0.52) !important;
+    /*background-color: rgba(200, 200, 200, 0.52) !important;*/
 }
 .breadcrumb-section.type2:before{
     background: transparent;
@@ -167,6 +179,27 @@ section.breadcrumb-section.type2{
 }
 .breadcrumb-section.type2 .breadcrumb .simpletext{
     display: none;
+}
+
+/*Custom breadcrumbs*/
+#breadcrumbs{
+    list-style:none;
+    margin:10px 0;
+    overflow:hidden;
+    font-family: "housefont","futura-pt"!important;
+    text-transform: uppercase;
+}
+  
+#breadcrumbs li{
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:15px;
+}
+  
+#breadcrumbs .separator{
+    font-size:18px;
+    font-weight:100;
+    color:#ccc;
 }
 
 #bbar-wrapper, #bbar-wrapper.type1, #bbar-wrapper.type1 i, #bbar-wrapper.type1 a, #bbar-wrapper.type4, #bbar-wrapper.type4 i, #bbar-wrapper.type4 a, #bbar-wrapper.type5, #bbar-wrapper.type5 i, #bbar-wrapper.type5 a {
@@ -234,6 +267,13 @@ section.breadcrumb-section.type2{
 }
 #footer .copyright p, #footer .copyright div, #footer .copyright a {
     color: rgba(255, 255, 255, 0.64);
+}
+.dt-sc-team {
+    background: white;
+}
+.jps-ourteam {
+    border-top: 1px #ededed solid;
+    border-bottom: 1px #ededed solid;
 }
 @media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, only screen and (min-resolution: 1.5dppx){
 #footer .widget h3.widgettitle .ico-bg {
