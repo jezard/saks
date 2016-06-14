@@ -46,10 +46,7 @@ h1, .border-title h2, .dt-sc-team h4{
     color: rgba(255, 255, 255, 0.64);
 }
 
-#bbar-wrapper .bbar-text {
-    font-size: 18px;
-    color:#f0cde1!important;
-}
+
 section.menu-items-list{
     margin-top: 60px!important;
 }
@@ -101,13 +98,6 @@ ol.dt-sc-fancy-list.pink li { color:#CA187D; }
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9e51c1e', endColorstr='#ccc9207f',GradientType=0 ); /* IE6-9 */
 
 
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5f6062+0,c9207f+53,f2f2f2+53&0.79+0,0.8+100 */
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#404042+0,838487+53&0.9+0,0.9+100 */
-    background: -moz-linear-gradient(top,  rgba(64,64,66,0.9) 0%, rgba(131,132,135,0.9) 53%, rgba(131,132,135,0.9) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  rgba(64,64,66,0.9) 0%,rgba(131,132,135,0.9) 53%,rgba(131,132,135,0.9) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  rgba(64,64,66,0.9) 0%,rgba(131,132,135,0.9) 53%,rgba(131,132,135,0.9) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6404042', endColorstr='#e6838487',GradientType=0 ); /* IE6-9 */
-
 
 }
 .no-bg .fullwidth-bg{
@@ -122,20 +112,8 @@ background: -webkit-linear-gradient(top,  rgba(201,32,127,1) 0%,rgba(201,32,127,
 background: linear-gradient(to bottom,  rgba(201,32,127,1) 0%,rgba(201,32,127,1) 0%,rgba(229,28,30,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9207f', endColorstr='#e51c1e',GradientType=0 ); /* IE6-9 */
 
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#404042+0,838487+53 */
-background: rgb(64,64,66); /* Old browsers */
-background: -moz-linear-gradient(top,  rgba(64,64,66,1) 0%, rgba(131,132,135,1) 53%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  rgba(64,64,66,1) 0%,rgba(131,132,135,1) 53%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  rgba(64,64,66,1) 0%,rgba(131,132,135,1) 53%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#404042', endColorstr='#838487',GradientType=0 ); /* IE6-9 */
-
-
 }
 
-#bbar-wrapper.type1 #bbar-body {
-    /*background: rgba(69, 52, 52, 0.38) !important;*/
-    background: none!important;
-}
 
 h1.dt-page-title {
     font-size: 36px;
@@ -332,17 +310,7 @@ section.breadcrumb-section.type2{
     border: 1px solid #ededed;
 }
 .copyright{
-  /*  background-color: #333334!important;*/
-
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#838487+0,404042+100 */
-background: rgb(131,132,135)!important; /* Old browsers */
-background: -moz-linear-gradient(left,  rgba(131,132,135,1) 0%, rgba(64,64,66,1) 100%)!important; /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgba(131,132,135,1) 0%,rgba(64,64,66,1) 100%)!important; /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgba(131,132,135,1) 0%,rgba(64,64,66,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#838487', endColorstr='#404042',GradientType=1 )!important; /* IE6-9 */
-
-
-
+    background-color: #333334!important;
 }
 
 #footer .widget h3.widgettitle .ico-bg {
@@ -375,13 +343,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#838487', end
 
 
 
-:hov
-
-
-.cls
-
-element.style {
-}
 #main-menu > ul.menu.rounded > li > a:hover, #main-menu > ul.menu.rounded > li:hover > a, #main-menu > ul.menu.rounded > li.current-menu-ancestor > a:hover, #main-menu > ul.menu.rounded > li.current-menu-item > a:hover, #main-menu > ul.menu.rounded > li.current_page_ancestor > a:hover, #main-menu > ul.menu.rounded > li.current_page_item > a:hover, #main-menu > ul.menu.rounded > li.current_page_item > a, #main-menu > ul.menu.rounded > li.current-menu-item > a, #main-menu > ul.menu.rounded > li.current-menu-ancestor > a, #main-menu > ul.menu.rounded > li.current_page_ancestor > a, #main-menu > ul.menu.rounded.with-hover-style > li > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li:hover > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-ancestor > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-item > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_ancestor > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_item > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_item > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-item > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-ancestor > a, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_ancestor > a, #main-menu > ul.menu > li > a:hover, #main-menu > ul.menu > li:hover > a, #main-menu > ul.menu > li.current-menu-ancestor > a:hover, #main-menu > ul.menu > li.current-menu-item > a:hover, #main-menu > ul.menu > li.current_page_ancestor > a:hover, #main-menu > ul.menu > li.current_page_item > a:hover, #main-menu > ul.menu > li.current_page_item > a, #main-menu > ul.menu > li.current-menu-item > a, #main-menu > ul.menu > li.current-menu-ancestor > a, #main-menu > ul.menu > li.current_page_ancestor > a {
     border-color: #fff;
 }
