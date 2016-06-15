@@ -30,8 +30,8 @@
 	 }
 	 #WordPress Default head hook
 	 wp_head();?>
-         <!-- <style>#bbar-wrapper {
-    background: rgba(94,95,98,1) !important;}</style> -->
+         <style>#bbar-wrapper {
+    background: rgba(94,95,98,1) !important;}</style>
 </head>
 <?php $body_class_arg  = ( dttheme_option("appearance","layout") === "boxed" ) ? array("boxed") : array(); ?>
 <body <?php body_class( $body_class_arg ); ?>>

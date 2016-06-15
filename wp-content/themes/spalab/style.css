@@ -23,7 +23,7 @@ Text Domain: dt_themes
 	
 	/*----*****---- << Fonts >> ----*****----*/
 	
-	body, h1, h2, h3, h4, h5, h6, .dt-sc-ico-content.type1 h5, .dt-sc-ico-content.type2 h5, .dt-sc-ico-content.type3 h5, .dt-sc-ico-content.type4 h5, .dt-sc-ico-content.type5 h5, .dt-sc-ico-content.type6 h3, input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="range"], input[type="date"], input[type="submit"], button, textarea, input.text, select, .entry-details .entry-title h4, .icon-list h3 { font-family:'Raleway', sans-serif; }	
+	body, h1, h2, h3, h4, h5, h6, .dt-sc-ico-content.type1 h5, .dt-sc-ico-content.type2 h5, .dt-sc-ico-content.type3 h5, .dt-sc-ico-content.type4 h5, .dt-sc-ico-content.type5 h5, .dt-sc-ico-content.type6 h3, input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="range"], input[type="date"], input[type="submit"], button, textarea, input.text, select, .entry-details .entry-title h4, .icon-list h3 { font-family: sans-serif; }	
 	
 	.breadcrumb h6, .dt-sc-ico-content p, .entry-details .entry-title h4, .dt-sc-catalog-menu.type1 .dt-sc-catalog-meta h4, .dt-sc-testimonial blockquote q, ul.products li .product-title h3, .dt-sc-bar-text  { font-weight: 300; }
 	
