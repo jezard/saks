@@ -1,11 +1,12 @@
 <?php
 	$item_meta = get_post_meta($post->ID, '_catalog_settings', true);
+
 	$subtitle = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;
 	$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;
 	$link = isset( $item_meta['link']) ? $item_meta['link'] : NULL; ?>
     
 	<article class="menu-list">
-		<div class="menu-thumb">
+		<div class="menu-thumb" style="display:none">
 			<span class="rounded">
 				<?php if(has_post_thumbnail()):                                     
                         the_post_thumbnail("full");
