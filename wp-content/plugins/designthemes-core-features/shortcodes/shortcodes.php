@@ -2116,12 +2116,11 @@ class DTCoreShortcodesDefination {
 									$out .= '<img src="http://placehold.it/600x600/#dddddd/&text=Image" alt="catalog-image" title="catalog-image" />';
 								endif;
 					$out .= '</span>';
-					$out .= '<div class="dt-sc-catalog-meta"> <h4> <a href="'.$link.'" target="'.$target.'">'.get_the_title().'</a></h4>';
+					$out .= '<div class="dt-sc-catalog-meta"> <h4> <a href="'.$link.'" target="'.$target.'">'.get_the_title().'</a><br><span class="jps-catsub">'.esc_html($sub_title).'</span></h4>';
+	
 					$out .= '<a class="dt-sc-button small" href="javascript:void(0)">'.esc_html($price).'</a>';
 					
-					if($column == 1){
-						$out .= '<span>'.esc_html($sub_title).'</span>';
-					}
+					
 						$out .= '</div></div>';
 						$out .= empty($excerpt_length)? '' : '<p class="dt-sc-catalog-detail">'.wp_trim_words(get_the_content(),$excerpt_length).'</p>';
 			$out .= '</div>';
