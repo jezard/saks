@@ -381,9 +381,12 @@ section.breadcrumb-section.type2{
 .ico-bg{
     margin-bottom: -6px;
 }
-#header.header1, #slider{
-    border-color: #96c6d4!important;
-    border-bottom: 10px #96c6d4 solid;
+#header.header1{
+    border-bottom: 10px #FFACC0 solid;
+}
+
+#footer .copyright {
+    border-top: #FFACC0 solid 10px;
 }
 
 
