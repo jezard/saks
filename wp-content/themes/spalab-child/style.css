@@ -391,14 +391,36 @@ section.breadcrumb-section.type2{
 .menu-items-list .dt-sc-hr.floral-grey {
     width: 78%;
 }
+.dt-sc-specials-list 
+.fa {
+     margin-left: 10px; 
+
+}
+#hair-container .border-title {
+    margin-bottom: 0;
+    text-align: left;
+}
+#hair-container .ico-border{
+    display: none;
+}
 
 
 
 #main-menu > ul.menu.rounded > li > a:hover, #main-menu > ul.menu.rounded > li:hover > a, #main-menu > ul.menu.rounded > li.current-menu-ancestor > a:hover, #main-menu > ul.menu.rounded > li.current-menu-item > a:hover, #main-menu > ul.menu.rounded > li.current_page_ancestor > a:hover, #main-menu > ul.menu.rounded > li.current_page_item > a:hover, #main-menu > ul.menu.rounded > li.current_page_item > a, #main-menu > ul.menu.rounded > li.current-menu-item > a, #main-menu > ul.menu.rounded > li.current-menu-ancestor > a, #main-menu > ul.menu.rounded > li.current_page_ancestor > a, #main-menu > ul.menu.rounded.with-hover-style > li > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li:hover > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-ancestor > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-item > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_ancestor > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_item > a:hover, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_item > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-item > a, #main-menu > ul.menu.rounded.with-hover-style > li.current-menu-ancestor > a, #main-menu > ul.menu.rounded.with-hover-style > li.current_page_ancestor > a, #main-menu > ul.menu > li > a:hover, #main-menu > ul.menu > li:hover > a, #main-menu > ul.menu > li.current-menu-ancestor > a:hover, #main-menu > ul.menu > li.current-menu-item > a:hover, #main-menu > ul.menu > li.current_page_ancestor > a:hover, #main-menu > ul.menu > li.current_page_item > a:hover, #main-menu > ul.menu > li.current_page_item > a, #main-menu > ul.menu > li.current-menu-item > a, #main-menu > ul.menu > li.current-menu-ancestor > a, #main-menu > ul.menu > li.current_page_ancestor > a {
     border-color: #fff;
 }
-@media only screen and (max-width: 767px)
-{
+@media only screen and (max-width: 1240px) and (min-width: 960px){
+    .menu-details {
+        float: left!important;
+    }
+}
+@media only screen and (max-width: 767px){}
+    .menu-details {
+        float: left!important;
+    }
+}
+
+@media only screen and (max-width: 767px){
 .nolink-menu {
     color: #fff;
     box-sizing: border-box;
