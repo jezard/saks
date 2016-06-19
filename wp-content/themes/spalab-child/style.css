@@ -128,10 +128,9 @@ h1.dt-page-title {
     margin-top: 60px;
 }
 
-/*.hr-title:after {
-    border: none;
-    top: 50%;
-}*/
+.postit-link{
+    color:#CA187D!important;
+}
 .hr-title:after {
     border-top: 5px solid #F3D0E4;
     top: 40%;
