@@ -22,7 +22,8 @@ Version:        2.3.1
     font-family: 'housefont';
     src: url('fonts/housefont.woff') format('woff'),
          url('fonts/housefont.ttf') format('truetype');
-
+}
+@font-face{
     font-family: 'Gill-Sans-Light';
     src:url('fonts/gillsans_light.woff') format('woff'),
         url('fonts/gillsans_light.eot') format('embedded-opentype'),
