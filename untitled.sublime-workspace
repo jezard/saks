@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
 				"font",
 				"font-size"
 			],
@@ -18,10 +34,6 @@
 			[
 				"import",
 				"important"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"group",
@@ -147,7 +159,7 @@
 			"file": "wp-content/themes/spalab-child/style.css",
 			"settings":
 			{
-				"buffer_size": 13621,
+				"buffer_size": 14076,
 				"line_ending": "Windows"
 			}
 		},
@@ -544,15 +556,15 @@
 					"file": "wp-content/themes/spalab-child/style.css",
 					"settings":
 					{
-						"buffer_size": 13621,
+						"buffer_size": 14076,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11254,
-								11254
+								11490,
+								11490
 							]
 						],
 						"settings":
@@ -562,7 +574,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4617.0,
+						"translation.y": 4593.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1839,7 +1851,7 @@
 		[
 			[
 				"",
-				"/Users/Jeremy/Projects/sublime/swts.sublime-project"
+				"/Users/Jeremy/Projects/ST/supplyplus.sublime-project"
 			]
 		],
 		"width": 380.0
