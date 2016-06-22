@@ -105,3 +105,7 @@ $dttheme_general = $dttheme_options['general'];?>
 		wp_footer(); ?>
 </body>
 </html>
+<?php 
+// $trace =  debug_backtrace ();
+// print_r($trace);
+ ?>

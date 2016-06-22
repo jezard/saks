@@ -259,10 +259,10 @@ function custom_breadcrumbs() {
     }
 }
 
-function yourplugin_custom_rewrite() {
-    add_rewrite_rule("^dt_catalog/([^/]+)/([^/]+)",'index.php?post_type=$matches[2]&taxonomy=$matches[1]','top');
-}
-add_action('init','yourplugin_custom_rewrite');
+// function yourplugin_custom_rewrite() {
+//     add_rewrite_rule("^dt_catalog/([^/]+)/([^/]+)",'index.php?post_type=$matches[2]&taxonomy=$matches[1]','top');
+// }
+// add_action('init','yourplugin_custom_rewrite');
 
 
 
