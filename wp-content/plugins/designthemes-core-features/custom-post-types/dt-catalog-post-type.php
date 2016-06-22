@@ -142,9 +142,9 @@ if (! class_exists ( 'DTCatalogPostType' )) {
 		 */
 		function createPostType() {
 			$labels = array (
-					'name' => __ ( 'Catalog', 'dt_themes' ),
-					'all_items' => __ ( 'All Catalog', 'dt_themes' ),
-					'singular_name' => __ ( 'Catalog', 'dt_themes' ),
+					'name' => __ ( 'Services', 'dt_themes' ),
+					'all_items' => __ ( 'All Service Items', 'dt_themes' ),
+					'singular_name' => __ ( 'Services', 'dt_themes' ),
 					'add_new' => __ ( 'Add New', 'dt_themes' ),
 					'add_new_item' => __ ( 'Add New Item', 'dt_themes' ),
 					'edit_item' => __ ( 'Edit Item', 'dt_themes' ),
@@ -154,7 +154,7 @@ if (! class_exists ( 'DTCatalogPostType' )) {
 					'not_found' => __ ( 'No Items found', 'dt_themes' ),
 					'not_found_in_trash' => __ ( 'No Items found in Trash', 'dt_themes' ),
 					'parent_item_colon' => __ ( 'Parent Item:', 'dt_themes' ),
-					'menu_name' => __ ( 'Catalog', 'dt_themes' ) 
+					'menu_name' => __ ( 'Service', 'dt_themes' ) 
 			);
 			
 			$args = array (
@@ -179,7 +179,11 @@ if (! class_exists ( 'DTCatalogPostType' )) {
 					'has_archive' => true,
 					'query_var' => true,
 					'can_export' => true,
-					'rewrite' => true,
+					'rewrite' => array(
+			         	'slug' => 'services',
+			         	'with_front' => true,
+			         	'hierarchical' => true,
+			         ),
 					'capability_type' => 'post' 
 			);
 			
@@ -192,7 +196,11 @@ if (! class_exists ( 'DTCatalogPostType' )) {
 					"label" => "Categories",
 					"singular_label" => "Category",
 					"show_admin_column" => true,
-					"rewrite" => true,
+					'rewrite' => array(
+			         	'slug' => 'services',
+			         	'with_front' => true,
+			         	'hierarchical' => true,
+			         ),
 					"query_var" => true 
 			) );
 		}
