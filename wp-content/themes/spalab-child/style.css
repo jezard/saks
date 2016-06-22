@@ -69,6 +69,9 @@ h1.dt-page-title {
 .menu-title span {
     font-weight: bold;
 }
+.dt-menu-toggle-icon {
+    margin-top: 6px;
+}
 
 
 
