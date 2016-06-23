@@ -5,5 +5,5 @@
          	value="<?php echo esc_attr( $search_text ); ?>" class="text_input"
 		    onblur="if(this.value==''){this.value='<?php echo $search_text;?>';}"
             onfocus="if(this.value =='<?php echo $search_text;?>') {this.value=''; }" />
-	<input type="submit"  value="" style="font-family:FontAwesome" />
+	<input type="submit"  style="font-family:FontAwesome" />
 </form><!-- **Searchform - End** -->
