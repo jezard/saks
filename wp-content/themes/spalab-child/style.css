@@ -57,6 +57,9 @@ h1, .border-title h2, .dt-sc-team h4{
     color: rgba(255, 255, 255, 0.64);
 }
 
+#footer .widget h3.widgettitle a, #footer h3 a {
+    font-weight: 600;
+}
 
 section.menu-items-list{
     margin-top: 60px!important;

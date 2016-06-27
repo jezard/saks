@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"is_blog_page"
+			],
+			[
+				"cat",
+				"cat_info"
+			],
+			[
 				"margin",
 				"margin-bottom"
 			],
@@ -156,59 +164,18 @@
 	"buffers":
 	[
 		{
-			"file": "wp-content/themes/spalab-child/style.css",
-			"settings":
-			{
-				"buffer_size": 14076,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/spalab/header.php",
-			"settings":
-			{
-				"buffer_size": 10824,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/spalab-child/header.php",
-			"settings":
-			{
-				"buffer_size": 10352,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "wp-content/themes/spalab-child/functions.php",
 			"settings":
 			{
-				"buffer_size": 13006,
+				"buffer_size": 13221,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<h2><a href=\"#\">Saks Is Special</a></h2>\n<p>Love beauty? Love Saks. We’re the UK’s leading hair and beauty salon group, dedicated to transforming how our customers look and feel. </p>\n<h2><a href=\"#\">Head To Toe Beauty</a></h2>\n<p>You'll find all-things beauty covered at Saks. Our expertly trained therapists are a friendly bunch; passionate about bringing out your own brand of beauty. With our busy-busy lifestyles we all covet precious 'me' time and we’ve honed a head to toes beauty menu to cover your every need. </p>\n<h2><a href=\"#\">With The Best Brands</a></h2>\n<p>With over 20 years in the biz we’re proud to work with the best beauty brands: 3D-lipo, Elemis, Essie, HD Brows, Jessica, Nouveau Lashes, Skeyndor, Xen-Tan, YoungBlood and more. </p>\n<hr>\n<h2><a href=\"#\">Face</a></h2>\n<p> When it comes to your face, we’re obsessed with results.</p>\n<p>From your 20s to your 50s and beyond, whatever you desire – to repair, rejuvenate, plump, hydrate or eliminate those imperfections – you’ll be nurtured in the best hands.</p>\n<p>During a complementary consultation our therapists take time to determine the most effective treatments for you, with an array of clinical and luxurious facials, peels, massage techniques and advanced technologies at our finger tips.</p>\n<h2><a href=\"#\">Advanced Power Facials</a></h2>\n<p>Packed with powerful ingredients to rebalance the skin.</p>\n<p>Meso Infusion technology or super-effective massage techniques are used to deliver the actives deep into the skin with pure relaxation.</p>\n<h2><a href=\"#\">Advanced Rejuvenation Facials</a></h2>\n<p>Take your skincare to a deeper level with these award-winning prescriptive facials for visible results. </p>\n<h2><a href=\"#\">Derma Peel Pro</a></h2>\n<p>A deep, powerful peel treatment, delivering results instantly, with no downtime or irritation. </p>\n<p> Can be used to diminish a variety of skin concerns and blemishes and inhibit recurrence. </p>\n<h2><a Href=\"#\">Face And Body</a></h2>\n<p>Treat yourself to indulgent and results focused pampering - tailored to take care of your skin concerns whilst also leaving you relaxed and ready to face life with a smile. </p>\n<h2><a Href=\"#\">Body</a></h2>\n<p>We’ve so got your body covered. Massages to relax or invigorate… pure bliss guaranteed. Hair removal for silky-smooth skin and professional tanning for a gorgeous natural glow. </p>\n<h2><a Href=\"#\">Body Contouring</a></h2>\n<p>An array of contouring treatments to give you body confidence! </p>\n<h2><a>Sunless Tanning </a></h2>\n<p>Give yourself an instant boost without the harmful effects of UV rays! Whether you want to sparkle at a special event, or simply give your spirits a lift, our therapists can work wonders with any skin tones, achieving a long-lasting, olive glow. </p>\n<h2><a>Hair Removal </a></h2>\n<p> The fast and hassle-free route to perfect pins, gorgeous underarms and your itsy-bitsy Brazilian or Hollywood bikini too, of course!</p>\n<h2><a>Glam Essentials </a></h2>\n<p> Add a touch of glamour to your everyday look with our fab four beauty essentials… brows, lashes, nails and makeup.</p>\n<h2><a Href=\"#\">Jessica Geleration</a></h2>\n<p>For a long lasting, flawless finish that dries in seconds, whilst protecting the natural nail. </p>",
-			"settings":
-			{
-				"buffer_size": 3244,
-				"line_ending": "Unix",
-				"name": "<h2><a href=\"#\">Saks Is Special</a></h2>"
 			}
 		},
 		{
 			"file": "wp-content/themes/spalab/skins/pink/style.css",
 			"settings":
 			{
-				"buffer_size": 14954,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/spalab/style.css",
-			"settings":
-			{
-				"buffer_size": 207351,
+				"buffer_size": 14941,
 				"line_ending": "Windows"
 			}
 		},
@@ -221,34 +188,18 @@
 			}
 		},
 		{
-			"file": "wp-content/themes/spalab/framework/loops/content.php",
+			"file": "wp-content/themes/spalab-child/search.php",
 			"settings":
 			{
-				"buffer_size": 5402,
+				"buffer_size": 849,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php",
+			"contents": "Searching 2409 files for \"register_custom\"\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/include.php:\n   30  \n   31  ##MegaMenu\n   32: require_once get_template_directory().'/framework/register_custom_attributes_in_menu.php';\n   33  \n   34  #Woocommerce\n\n1 match in 1 file\n",
 			"settings":
 			{
-				"buffer_size": 77656,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/spalab/framework/loops/content-catalog-one-column.php",
-			"settings":
-			{
-				"buffer_size": 1233,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Searching 2407 files for \"catalog\"\n\n/Users/Jeremy/Projects/saks/wp-admin/includes/admin.php:\n   11  	/*\n   12  	 * This file is being included from a file other than wp-admin/admin.php, so\n   13: 	 * some setup was skipped. Make sure the admin message catalog is loaded since\n   14  	 * load_default_textdomain() will not have done so in this context.\n   15  	 */\n\n/Users/Jeremy/Projects/saks/wp-admin/includes/schema.php:\n  637  	// Add roles\n  638  \n  639: 	// Dummy gettext calls to get strings in the catalog.\n  640  	/* translators: user role */\n  641  	_x('Administrator', 'User role');\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/dt-catalog-post-type.php:\n    1  <?php\n    2: if (! class_exists ( 'DTCatalogPostType' )) {\n    3: 	class DTCatalogPostType {\n    4  		\n    5  		/**\n    .\n   44  			) );\n   45  			\n   46: 			add_action ( 'edited_catalog_entries', array (\n   47  					$this,\n   48  					'save_taxonomy_custom_fields' \n   49  			) );\n   50  \n   51: 			add_action ( 'create_catalog_entries', array (\n   52  					$this,\n   53  					'save_taxonomy_custom_fields' \n   ..\n   62  			add_action ( 'add_meta_boxes', array (\n   63  					$this,\n   64: 					'dt_add_catalog_meta_box' \n   65  			) );\n   66  			\n   67: 			add_filter ( \"manage_edit-dt_catalog_columns\", array (\n   68  					$this,\n   69: 					\"dt_catalog_edit_columns\" \n   70  			) );\n   71  			\n   72  			add_action ( \"manage_posts_custom_column\", array (\n   73  					$this,\n   74: 					\"dt_catalog_columns_display\" \n   75  			), 10, 2 );\n   76  			\n   77: 			add_action ( 'catalog_entries_add_form_fields', array (\n   78  					$this,\n   79  					'add_taxonomy_custom_fields' \n   80  			) );\n   81  			\n   82: 			add_action ( 'catalog_entries_edit_form_fields', array (\n   83  					$this,\n   84  					'edit_taxonomy_custom_fields' \n   ..\n  143  		function createPostType() {\n  144  			$labels = array (\n  145: 					'name' => __ ( 'Catalog', 'dt_themes' ),\n  146: 					'all_items' => __ ( 'All Catalog', 'dt_themes' ),\n  147: 					'singular_name' => __ ( 'Catalog', 'dt_themes' ),\n  148  					'add_new' => __ ( 'Add New', 'dt_themes' ),\n  149  					'add_new_item' => __ ( 'Add New Item', 'dt_themes' ),\n  ...\n  155  					'not_found_in_trash' => __ ( 'No Items found in Trash', 'dt_themes' ),\n  156  					'parent_item_colon' => __ ( 'Parent Item:', 'dt_themes' ),\n  157: 					'menu_name' => __ ( 'Catalog', 'dt_themes' ) \n  158  			);\n  159  			\n  ...\n  161  					'labels' => $labels,\n  162  					'hierarchical' => false,\n  163: 					'description' => 'This is custom post type catalog menu items',\n  164  					'supports' => array (\n  165  							'title',\n  ...\n  172  					'show_in_menu' => true,\n  173  					'menu_position' => 5,\n  174: 					'menu_icon' => plugin_dir_url ( __FILE__ ) . 'images/icon_catalog.png',\n  175  					\n  176  					'show_in_nav_menus' => true,\n  ...\n  184  			);\n  185  			\n  186: 			register_post_type ( 'dt_catalog', $args );\n  187  			\n  188: 			register_taxonomy ( \"catalog_entries\", array (\n  189: 					\"dt_catalog\" \n  190  			), array (\n  191  					\"hierarchical\" => true,\n  ...\n  200  		/**\n  201  		 */\n  202: 		function dt_add_catalog_meta_box() {\n  203: 			add_meta_box ( \"dt-catalog-default-metabox\", __ ( 'Catalog Options', 'dt_themes' ), array (\n  204  					$this,\n  205  					'dt_default_metabox' \n  206: 			), 'dt_catalog', \"normal\", \"default\" );\n  207  		}\n  208  		\n  ...\n  210  		 */\n  211  		function dt_default_metabox() {\n  212: 			include_once plugin_dir_path ( __FILE__ ) . 'metaboxes/dt_catalog_default_metabox.php';\n  213  		}\n  214  		\n  ...\n  218  		 * @return multitype:\n  219  		 */\n  220: 		function dt_catalog_edit_columns($columns) {\n  221  			$columns = array (\n  222  				\"cb\" => \"<input type=\\\"checkbox\\\" />\",\n  223  				\"dt_thumb\" => \"Image\",\n  224  				\"title\" => \"Title\",\n  225: 				\"catalog_entries\"=>\"Categories\",\n  226  				\"author\" => \"Author\"\n  227  			);\n  ...\n  234  		 * @param unknown $id        	\n  235  		 */\n  236: 		function dt_catalog_columns_display($columns, $id) {\n  237  			global $post;\n  238  			\n  ...\n  249  				break;\n  250  				\n  251: 				case \"catalog_entries\":\n  252: 					echo get_the_term_list($post->ID, 'catalog_entries', '', ', ','');\n  253  				break;\n  254  			}\n  ...\n  282  				$settings['breadcrumb-darkbg'] = isset ( $_POST ['breadcrumb-darkbg'] ) ?  ( $_POST ['breadcrumb-darkbg'] ) : \"\";\n  283  			\n  284: 				update_post_meta ( $post_id, \"_catalog_settings\", array_filter ( $settings ) );\n  285  	\n  286  				//For default category...\n  287: 				$terms = wp_get_object_terms ( $post_id, 'catalog_entries' );\n  288  				if (empty ( $terms )) :\n  289: 					wp_set_object_terms ( $post_id, 'Uncategorized', 'catalog_entries', true );\n  290  				endif;\n  291  				\n  ...\n  294  		\n  295  		/**\n  296: 		 * To load catalog pages in front end\n  297  		 *\n  298  		 * @param string $template        	\n  ...\n  300  		 */\n  301  		function dt_template_include($template) {\n  302: 			if (is_tax ( 'catalog_entries' )) {\n  303: 				if (! file_exists ( get_stylesheet_directory () . '/taxonomy-catalog_entries.php' )) {\n  304: 					$template = plugin_dir_path ( __FILE__ ) . 'templates/taxonomy-catalog_entries.php';\n  305  				}\n  306  			}\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/metaboxes/dt_catalog_default_metabox.php:\n    1  <?php\n    2  global $post;\n    3: $catalog_settings = get_post_meta ( $post->ID, '_catalog_settings', TRUE );\n    4: $catalog_settings = is_array ( $catalog_settings ) ? $catalog_settings : array (); ?>\n    5  \n    6  <!-- Additional Fields -->\n    .\n   13                          </div>\n   14                          <div class=\"column four-sixth last\">\n   15:                             <?php $switchclass = array_key_exists(\"disable_breadcrumb_section\",$catalog_settings) ? 'checkbox-switch-on' :'checkbox-switch-off';\n   16:                                   $checked = array_key_exists(\"disable_breadcrumb_section\",$catalog_settings) ? ' checked=\"checked\"' : '';?>\n   17                              <div data-for=\"mytheme-disable-breadcrumb-section\" class=\"checkbox-switch <?php echo $switchclass;?>\"></div>\n   18                              <input id=\"mytheme-disable-breadcrumb-section\" class=\"hidden\" type=\"checkbox\" name=\"mytheme-disable-breadcrumb-section\" value=\"true\"  <?php echo $checked;?>/>\n   ..\n   27                          </div>\n   28                          <div class=\"column five-sixth last\">\n   29:                         <?php $breadcrumbsubtitle = array_key_exists ( \"breadcrumb-sub-title\", $catalog_settings ) ? $catalog_settings ['breadcrumb-sub-title'] : '';?>\n   30                          \n   31                              <input id=\"breadcrumb-sub-title\" name=\"breadcrumb-sub-title\" type=\"text\" class=\"widefat\" 	value=\"<?php echo esc_attr( $breadcrumbsubtitle );?>\" />\n   ..\n   40                              <div class=\"image-preview-container\">\n   41                                   <div class=\"clear\"></div>\n   42:                                 <?php $subtitlebg = array_key_exists ( \"breadcrumb-bg\", $catalog_settings ) ? $catalog_settings ['breadcrumb-bg'] : '';?>\n   43                                  <input name=\"breadcrumb-bg\" type=\"text\" class=\"uploadfield medium\" readonly=\"readonly\" value=\"<?php echo $subtitlebg;?>\"/>\n   44                                  <input type=\"button\" value=\"<?php _e('Upload','dt_themes');?>\" class=\"upload_image_button show_preview\" />\n   ..\n   54                              <div class=\"column one-third\">\n   55                                  <label><?php _e('Background Repeat','dt_themes');?></label>\n   56:                                 <?php $bgrepeat =  array_key_exists ( \"breadcrumb-bg-repeat\", $catalog_settings ) ? $catalog_settings ['breadcrumb-bg-repeat'] : ''; ?>\n   57                                  <div class=\"clear\"></div>\n   58                                  <select name=\"breadcrumb-bg-repeat\">\n   ..\n   67                              <div class=\"column one-third\">\n   68                                  <label><?php _e('Background Position','dt_themes');?></label>\n   69:                                 <?php $bgposition =  array_key_exists ( \"breadcrumb-bg-position\", $catalog_settings ) ? $catalog_settings ['breadcrumb-bg-position'] : ''; ?>\n   70                                  <div class=\"clear\"></div>\n   71                                  <select name=\"breadcrumb-bg-position\">\n   ..\n   81                                  <label><?php _e('Apply Dark Background','dt_themes');?></label>\n   82                                  <div class=\"clear\"></div><?php\n   83:                                     $switchclass = array_key_exists(\"breadcrumb-darkbg\",$catalog_settings) ? 'checkbox-switch-on' :'checkbox-switch-off';\n   84:                                     $checked = array_key_exists(\"breadcrumb-darkbg\",$catalog_settings) ? ' checked=\"checked\"' : '';?>\n   85      \n   86                                      <div data-for=\"breadcrumb-darkbg\" class=\"checkbox-switch <?php echo $switchclass;?>\"></div>\n   ..\n   97      </div>\n   98      <div class=\"column one-half last\">\n   99:         <?php $v = array_key_exists(\"subtitle\", $catalog_settings) ?  $catalog_settings['subtitle'] : '';?>\n  100          <textarea id=\"subtitle\" name=\"_subtitle\" class=\"large\" rows=\"3\" style=\"width:100%;\"><?php echo $v; ?></textarea>\n  101          <p class=\"note\"> <?php _e(\"You can given your sub title\",'dt_themes');?> </p>\n  ...\n  106      </div>\n  107      <div class=\"column one-half last\">\n  108:         <?php $v = array_key_exists(\"price\",$catalog_settings) ?  $catalog_settings['price'] : '';?>\n  109          <input id=\"price\" name=\"_price\" class=\"large\" type=\"text\" value=\"<?php echo esc_attr( $v ); ?>\" style=\"width:100%;\" />\n  110          <p class=\"note\"> <?php _e(\"Enter item price here (eg : $12.50)\",'dt_themes'); ?> </p>\n  ...\n  115      </div>\n  116      <div class=\"column one-half last\">\n  117:         <?php $v = array_key_exists(\"dummyprice\",$catalog_settings) ?  $catalog_settings['dummyprice'] : '';?>\n  118          <input id=\"dummyprice\" name=\"_dummyprice\" class=\"large\" type=\"text\" value=\"<?php echo esc_attr( $v ); ?>\" style=\"width:100%;\" />\n  119          <p class=\"note\"> <?php _e(\"Enter dummy item price here (eg : $12.50)\",'dt_themes'); ?> </p>\n  ...\n  124      </div>\n  125      <div class=\"column one-half last\">\n  126:         <?php $v = array_key_exists(\"link\",$catalog_settings) ?  $catalog_settings['link'] : '';?>\n  127          <input id=\"link\" name=\"_link\" class=\"large\" type=\"text\" value=\"<?php echo esc_attr( $v );?>\" style=\"width:100%;\" />\n  128          <p class=\"note\"> <?php _e(\"Enter item link here (eg : http://somedomain.com)\",'dt_themes'); ?> </p>\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/register-post-types.php:\n   10  		function __construct() {\n   11  			\n   12: 			/* Catalog Custom Post Type */\n   13: 			require_once plugin_dir_path ( __FILE__ ) . '/dt-catalog-post-type.php';\n   14: 			if (class_exists ( 'DTCatalogPostType' )) {\n   15  				\n   16: 				new DTCatalogPostType ();\n   17  			}\n   18  			\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/templates/taxonomy-catalog_entries.php:\n    1  <?php get_header();?>\n    2: <?php $page_layout  = dttheme_option( 'specialty', 'catalog-archives-layout' );\n    3  	$page_layout  = !empty( $page_layout ) ? $page_layout : \"content-full-width\";\n    4  	\n    5: 	$post_layout = dttheme_option( 'specialty', 'catalog-archives-post-layout' );\n    6  	$post_layout  = !empty( $post_layout ) ? $post_layout : \"one-column\";\n    7  	  \n    .\n   28  	switch($post_layout):\n   29  		case 'one-column':\n   30: 			$post_class = $show_sidebar ? \" catalog column dt-sc-one-column \" : \" catalog column dt-sc-one-column \";\n   31  		break;\n   32  		\n   33  		case 'one-half-column';\n   34: 			$post_class = $show_sidebar ? \" catalog column dt-sc-one-half\" : \" catalog column dt-sc-one-half \";\n   35  			$columns = 2;\n   36  		break;\n   ..\n   39      \n   40        <!-- **Primary Section** -->\n   41:       <section id=\"primary\" class=\"catalog <?php echo $page_layout;?>\">\n   42  <?php	if( have_posts() ):\n   43  			$i = 1;\n   ..\n   47  \n   48  				if($post_layout == 'one-column'):\n   49: 					$item_meta = get_post_meta($post->ID, '_catalog_settings', true);\n   50  					$subtitle = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;\n   51  					$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n   ..\n   75  							\n   76  					  //TWO COLUMN...\n   77: 					  $item_meta = get_post_meta($the_id, '_catalog_settings', true);\n   78  					  $subtitle = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;\n   79  					  $price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n   ..\n   81  					  \n   82  					  <div class=\"dt-sc-one-half column <?php echo $temp_class; ?>\">\n   83: 						  <div class=\"dt-sc-catalog-menu\">\n   84  							  <?php if(has_post_thumbnail()): ?>\n   85  							  <span class=\"rounded\">\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/page-builder/modules.php:\n 1284  			'default_value' => 'Price Range'\n 1285  		),\n 1286: 		'catalog_item_ids' => array(\n 1287: 			'title' => __('Catalog Item Ids', 'dt_themes'),\n 1288  			'type' => 'text',\n 1289  			'default_value' => ''\n 1290  		),\n 1291: 		'catalog_show_dummy_price' => array(\n 1292: 			'title' => __('Catalog Show Dummy Price', 'dt_themes'),\n 1293  			'type' => 'text',\n 1294  			'default_value' => 'true'\n ....\n 1713  );\n 1714  \n 1715: $dt_modules['unique']['doshortcode_catalog_items'] = array(\n 1716: 	'name' => __('Catalog Items', 'dt_themes'),\n 1717: 	'tooltip' => __('Use this module to add catalog items', 'dt_themes'),\n 1718: 	'icon_class' => 'ico-catalog-items',\n 1719  	'options' => array(\n 1720  		'tf_content' => array(\n ....\n 1722  			'type' => 'wp_editor',\n 1723  			'is_content' => true,\n 1724: 			'default_value' => '[dt_sc_catalog_items item_ids=\"91,92,93\" column=\"1\" excerpt_length=\"25\" link=\"#\" target=\"_self\"]'\n 1725  		)\n 1726  	)\n 1727  );\n 1728  \n 1729: $dt_modules['unique']['doshortcode_catalog_menu_items_list'] = array(\n 1730: 	'name' => __('Catalog Menu Items', 'dt_themes'),\n 1731: 	'tooltip' => __('Use this module to add catalog menu items list', 'dt_themes'),\n 1732: 	'icon_class' => 'ico-catalog-menu-list',\n 1733  	'options' => array(\n 1734  		'tf_content' => array(\n ....\n 1736  			'type' => 'wp_editor',\n 1737  			'is_content' => true,\n 1738: 			'default_value' => '[dt_sc_catalog_menu_items_list item_ids=\"91,92,93\" icon=\"fa-leaf\" show_dummy_price=\"true\" link=\"#\" target=\"_self\"]'\n 1739  		)\n 1740  	)\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/shortcodes/register-shortcodes.php:\n  115  								  \"dt_sc_testimonial_carousel\",\"dt_sc_toggle\",\"dt_sc_toggle_framed\",\"dt_sc_titled_box\",\n  116  								  \"dt_sc_tooltip\",\"dt_sc_pullquote\",\"dt_sc_three_columns_portfolio\",\"dt_sc_four_columns_portfolio\",\n  117: 								  \"dt_sc_infographic_bar\",\"dt_sc_catalog_items\",\"dt_sc_h1_title\",\"dt_sc_h2_title\",\"dt_sc_h3_title\",\n  118  								  \"dt_sc_h4_title\",\"dt_sc_h5_title\",\"dt_sc_h6_title\",\"dt_sc_animation\",\n  119: 								  \"dt_sc_fullwidth_section\",\"dt_sc_catalog_menu_items_list\",\"dt_sc_reserve_appointments\");\n  120  \n  121  			$block = join(\"|\", $dt_shortcodes );\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:\n  487  		) );\n  488  		\n  489: 		/* Catalog items */\n  490: 		add_shortcode ( \"dt_sc_catalog_items\", array (\n  491  				$this,\n  492: 				\"dt_sc_catalog_items\" \n  493  		) );\n  494  		\n  ...\n  565  		) );\n  566  		\n  567: 		add_shortcode ( \"dt_sc_catalog_menu_items_list\", array (\n  568  				$this,\n  569: 				\"dt_sc_catalog_menu_items_list\" \n  570  		) );\n  571  		\n  ...\n 2061  	}\n 2062  \n 2063: 	# catalog items\n 2064: 	function dt_sc_catalog_items($atts, $content = null) {\n 2065  		extract(shortcode_atts(array(\n 2066  			'item_ids' => '',\n ....\n 2074  		$col_class = $out = \"\";\n 2075  		if($count == -1){\n 2076: 			$args = array('post_type' => 'dt_catalog', 'posts_per_page' => '-1');\n 2077  		}else {\n 2078: 			$args = array('post_type' => 'dt_catalog', 'posts_per_page' => '-1', 'post__in' => explode(',', $item_ids));\n 2079  		}\n 2080  		$wp_query = new WP_Query($args);\n ....\n 2104  			}\n 2105  			\n 2106: 			$item_meta = get_post_meta(get_the_ID(), '_catalog_settings', true);\n 2107  			$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n 2108  			$sub_title = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;\n 2109  				\n 2110  			$out .= '<div class=\"'.$col_class.'\">';\n 2111: 				$out .= '<div class=\"dt-sc-catalog-menu type1\">';\n 2112  					$out .= '<span class=\"rounded\">';\n 2113  								if( has_post_thumbnail($id) ):\n 2114  									$out .= get_the_post_thumbnail(get_the_ID(), \"full\");\n 2115  								else:\n 2116: 									$out .= '<img src=\"http://placehold.it/600x600/#dddddd/&text=Image\" alt=\"catalog-image\" title=\"catalog-image\" />';\n 2117  								endif;\n 2118  					$out .= '</span>';\n 2119: 					$out .= '<div class=\"dt-sc-catalog-meta\"> <h4> <a href=\"'.$link.'\" target=\"'.$target.'\">'.get_the_title().'</a><br><span class=\"jps-catsub\">'.esc_html($sub_title).'</span></h4>';\n 2120  	\n 2121  					$out .= '<a class=\"dt-sc-button small\" href=\"javascript:void(0)\">'.esc_html($price).'</a>';\n ....\n 2123  					\n 2124  						$out .= '</div></div>';\n 2125: 						$out .= empty($excerpt_length)? '' : '<p class=\"dt-sc-catalog-detail\">'.wp_trim_words(get_the_content(),$excerpt_length).'</p>';\n 2126  			$out .= '</div>';\n 2127  			if($column == 1) {\n ....\n 2131  		\n 2132  		else:\n 2133: 			echo \"Apologize, Catalog Menu item IDS does not Exists\";	\n 2134  		\n 2135  		endif;\n ....\n 2139  	}\n 2140  	\n 2141: 	# Catalog Menu Items List \n 2142: 	 function dt_sc_catalog_menu_items_list($atts, $content = null) {\n 2143  		extract(shortcode_atts(array(\n 2144  			'item_ids' => '',\n ....\n 2152  		$out = '';\n 2153  		if($count == -1){\n 2154: 			$args = array('post_type' => 'dt_catalog', 'posts_per_page' => '-1');\n 2155  		}else {\n 2156: 			$args = array('post_type' => 'dt_catalog', 'posts_per_page' => '-1', 'post__in' => explode(',', $item_ids));\n 2157  		}\n 2158  		$wp_query = new WP_Query($args);\n ....\n 2163  			while($wp_query->have_posts()): $wp_query->the_post();\n 2164  				\n 2165: 				$item_meta = get_post_meta(get_the_ID(), '_catalog_settings', true);\n 2166  				$dummy_price = isset( $item_meta['dummyprice']) ? $item_meta['dummyprice'] : NULL;\n 2167  				$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n ....\n 2310  				'procedure_highlight5' => '',\n 2311  				'rang_title' => '',\n 2312: 				'catalog_item_ids' => '',\n 2313: 				'catalog_show_dummy_price' => '',\n 2314  				'button_text' => '',\n 2315  				'button_link' => '',\n ....\n 2330  		$out .= ' <div class=\"hr-invisible-very-small \"> </div> <div class=\"clear\"> </div>';\n 2331  		$out .= '<h3>'.$rang_title.'</h3>';\n 2332: 		$out .= do_shortcode( \"[dt_sc_catalog_menu_items_list item_ids='\".$catalog_item_ids.\"' show_dummy_price='\".$catalog_show_dummy_price.\"']\" );\n 2333  		$out .= '<div class=\"aligncenter\">';\n 2334  		$out .= do_shortcode ( \"[dt_sc_button class='gradient large' link='\".$button_link.\"' target='\".$button_target.\"']\" . $button_text . \"[/dt_sc_button]\" );\n\n/Users/Jeremy/Projects/saks/wp-content/plugins/LayerSlider/helpers/phpQuery.php:\n  134   * - in XHTML fragments, <br /> changes to <br clear=\"none\" />\n  135   *\n  136:  * @todo check XML catalogs compatibility\n  137   * @author Tobiasz Cudnik <tobiasz.cudnik/gmail.com>\n  138   * @package phpQuery\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/framework/loops/content-catalog-post-layout.php:\n    2  	//PERFORMING QUERY...\n    3  	$meta_set = get_post_meta($post->ID, '_tpl_default_settings', true);\n    4: 	$catalog_cats = !empty($meta_set['catalog-categories']) ? $meta_set['catalog-categories'] : '';\n    5: 	$post_layout = !empty($meta_set['catalog-post-layout']) ? $meta_set['catalog-post-layout'] : 'one-column';\n    6  	\n    7: 	if(count($catalog_cats) <= 1)\n    8: 		$catalog_cats = get_terms( array('catalog_entries'), array('fields' => 'ids','orderby' => 'slug','order' => 'ASC'));\n    9  		\n   10: 	$catalog_cats = array_filter($catalog_cats); ?>\n   11          \n   12      <div class=\"dt-sc-one-fourth column menu-sidebar first\">\n   13          <ul class=\"j-load-all\">\n   14          <?php\n   15:             foreach($catalog_cats as $term) {\n   16:                 $myterm = get_term_by('id', $term, 'catalog_entries');\n   17  				$ic = get_option(\"taxonomy_term_$term\"); ?>\n   18                  <li><a class=\"smoothScroll\" href=\"#<?php echo strtolower($myterm->slug); ?>\"><?php echo $myterm->name; ?><span class=\"fa <?php echo $ic['icon_class']; ?>\"></span></a></li><?php\n   ..\n   23  	<section class=\"dt-sc-three-fourth column\"><?php\n   24  		//PERFORMING ITEMS...\n   25: 		if(!empty($catalog_cats)):\n   26: 			foreach($catalog_cats as $term) {\n   27  	\n   28: 				$myterm = get_term_by('id', $term, 'catalog_entries'); ?>\n   29                  <?php echo '<div class=\"dt-sc-hr floral-grey\"></div>';  ?>\n   30  				<h2 id=\"<?php echo strtolower($myterm->slug); ?>\" >\n   ..\n   36  					  } \n   37  				\n   38: 				$args = array( 'post_type' => 'dt_catalog', 'posts_per_page' => -1, 'suppress_filters'=>'0', 'tax_query' => array( array( 'taxonomy' => 'catalog_entries', 'field' => 'id', 'terms' => $term)), 'orderby'=>'menu_order', 'order'=>'ASC'  );\n   39  				\n   40  				$the_query = new WP_Query($args);\n   ..\n   43  					\n   44  						if($post_layout == 'one-column'):\n   45: 							get_template_part( 'framework/loops/content' , 'catalog-one-column' );\n   46  							\n   47  						elseif($post_layout == 'one-half-column'):\n   ..\n   54  							\n   55  							//TWO COLUMN...\n   56: 							$item_meta = get_post_meta($post->ID, '_catalog_settings', true);\n   57  							$subtitle = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;\n   58  							$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n   ..\n   60  							\n   61  							<div class=\"dt-sc-one-half column <?php echo $temp_class; ?>\">\n   62: 								<div class=\"dt-sc-catalog-menu\">\n   63  									<span class=\"rounded\">\n   64  										<?php if(has_post_thumbnail()):                                     \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/tpl-catalog.php:\n    1  <?php\n    2  /* \n    3: 	Template Name: Catalog Template\n    4  */\n    5  	get_header();\n    .\n   19                        wp_link_pages(array('before' => '<div class=\"page-link\"><strong>'.__('Pages:', 'dt_themes').'</strong> ', 'after' => '</div>', 'next_or_number' => 'number'));\n   20                        \n   21:                       //PERFORMING CATALOG LAYOUT...\n   22:                       get_template_part( 'framework/loops/content', 'catalog-post-layout');\n   23                        echo do_shortcode('[dt_sc_hr]');\n   24                        echo $html;\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/admin_utils.php:\n   93  			\"gallery-archives-layout\" => \"content-full-width\",\n   94  			\"gallery-archives-post-layout\" => \"one-column\",\n   95: 			\"catalog-archives-layout\" => \"content-full-width\",\n   96: 			\"catalog-archives-post-layout\" => \"one-column\",\n   97  			\"search-layout\" => \"content-full-width\",\n   98  			\"search-post-layout\" => \"one-column\",\n   ..\n  415  // # --- **** dttheme_categorylist() *** --- ###\n  416  \n  417: // # --- **** dt_theme_catalog_categorylist() *** --- ###\n  418  \n  419: function dt_theme_catalog_categorylist($id, $selected = '', $class = \"mytheme_select\") {\n  420  	$name = explode ( \",\", $id );\n  421  	if (count ( $name ) > 1) {\n  ...\n  427  	$output = \"<select name='{$name}' class='{$class}'>\";\n  428  	$output .= \"<option value=''>\" . __ ( 'Select Category', 'dt_themes' ) . \"</option>\";\n  429: 	$cats = get_categories ( 'taxonomy=catalog_entries&hide_empty=0' );\n  430  	foreach ( $cats as $cat ) :\n  431  		@$id = esc_attr ( $cat->term_id );\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-catalog-one-column.php:\n    1  <?php\n    2: 	$item_meta = get_post_meta($post->ID, '_catalog_settings', true);\n    3  		\n    4  \n    5  \n    6: $terms = get_the_terms( $post->ID, 'dt_catalog' );\n    7  print_r($terms);\n    8  \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-catalog-post-layout.php:\n    2  	//PERFORMING QUERY...\n    3  	$meta_set = get_post_meta($post->ID, '_tpl_default_settings', true);\n    4: 	$catalog_cats = !empty($meta_set['catalog-categories']) ? $meta_set['catalog-categories'] : '';\n    5: 	$post_layout = !empty($meta_set['catalog-post-layout']) ? $meta_set['catalog-post-layout'] : 'one-column';\n    6  	\n    7: 	if(count($catalog_cats) <= 1)\n    8: 		$catalog_cats = get_terms( array('catalog_entries'), array('fields' => 'ids','orderby' => 'slug','order' => 'ASC'));\n    9  		\n   10: 	$catalog_cats = array_filter($catalog_cats); ?>\n   11          \n   12      <div class=\"dt-sc-one-fourth column menu-sidebar first\">\n   13          <ul class=\"j-load-all\">\n   14          <?php\n   15:             foreach($catalog_cats as $term) {\n   16:                 $myterm = get_term_by('id', $term, 'catalog_entries');\n   17  				$ic = get_option(\"taxonomy_term_$term\"); ?>\n   18                  <li><a class=\"smoothScroll\" href=\"#<?php echo strtolower($myterm->slug); ?>\"><?php echo $myterm->name; ?><span class=\"fa <?php echo $ic['icon_class']; ?>\"></span></a></li><?php\n   ..\n   23  	<section class=\"dt-sc-three-fourth column\"><?php\n   24  		//PERFORMING ITEMS...\n   25: 		if(!empty($catalog_cats)):\n   26: 			foreach($catalog_cats as $term) {\n   27  	\n   28: 				$myterm = get_term_by('id', $term, 'catalog_entries'); ?>\n   29                  <?php echo '<div class=\"dt-sc-hr floral-grey\"></div>';  ?>\n   30  				<h2 id=\"<?php echo strtolower($myterm->slug); ?>\" >\n   ..\n   36  					  } \n   37  				\n   38: 				$args = array( 'post_type' => 'dt_catalog', 'posts_per_page' => -1, 'suppress_filters'=>'0', 'tax_query' => array( array( 'taxonomy' => 'catalog_entries', 'field' => 'id', 'terms' => $term)));\n   39  				\n   40  				$the_query = new WP_Query($args);\n   ..\n   43  					\n   44  						if($post_layout == 'one-column'):\n   45: 							get_template_part( 'framework/loops/content' , 'catalog-one-column' );\n   46  							\n   47  						elseif($post_layout == 'one-half-column'):\n   ..\n   54  							\n   55  							//TWO COLUMN...\n   56: 							$item_meta = get_post_meta($post->ID, '_catalog_settings', true);\n   57  							$subtitle = isset( $item_meta['subtitle']) ? $item_meta['subtitle'] : NULL;\n   58  							$price = isset( $item_meta['price']) ? $item_meta['price'] : NULL;\n   ..\n   60  							\n   61  							<div class=\"dt-sc-one-half column <?php echo $temp_class; ?>\">\n   62: 								<div class=\"dt-sc-catalog-menu\">\n   63  									<span class=\"rounded\">\n   64  										<?php if(has_post_thumbnail()):                                     \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/register_public.php:\n  109  	wp_enqueue_script('nicescroll-script', IAMD_FW_URL.'js/public/jquery.nicescroll.min.js',array(),false,true);\n  110  	\n  111: 	/* Catalog */\n  112  	wp_enqueue_script('jq.smooth', IAMD_FW_URL.'js/public/jquery-smoothscroll.js',array(),false,true);\n  113  	\n  ...\n  982  		elseif( is_singular('dt_portfolios' )):\n  983  			$type = 'dt_portfolios';\n  984: 		elseif( is_singular('dt_catalog' )):\n  985: 			$type = 'dt_catalog';\n  986  		endif;\n  987  		\n  ...\n  994  			elseif( $type === \"dt_portfolios\" )\n  995  				$settings = '_portfolio_settings';\n  996: 			elseif( $type === \"dt_catalog\" )\n  997: 				$settings = '_catalog_settings';\n  998  	\n  999  			$settings = get_post_meta( $query_id, $settings, TRUE );\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/register_widget_areas.php:\n  114  		}\n  115  		\n  116: 		$layout = dttheme_option('specialty','catalog-archives-layout');\n  117      	$layout = !empty($layout) ? $layout : \"content-full-width\";\n  118      	if( $layout != \"content-full-width\" ){\n  119  			register_sidebar(array(\n  120: 				'name' 			=>	__(\"Catalog's Category Sidebar\",'dt_themes'),\n  121: 				'id'			=>	'custom-post-catalog-archives',\n  122: 				'description'   =>  __(\"Catalog post's archive sidebar that appears on the left (or) right.\",\"dt_themes\"),\n  123  				'before_widget' => 	'<aside id=\"%1$s\" class=\"widget %2$s\">',\n  124  				'after_widget' 	=> 	'</aside>',\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/theme_features.php:\n   45  			'page',\n   46  			'product',\n   47: 			'dt_catalog',\n   48  			'dt_services',\n   49  			'dt_staffs'\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/theme_metaboxes/page_metabox.php:\n  497              \n  498              \n  499:             <!-- Catalog Template Settings -->\n  500:                <div id=\"tpl-catalog\">\n  501                    <!-- Post Playout -->\n  502                    <div class=\"custom-box\">\n  ...\n  508                            <?php $posts_layout = array(	'one-column'=>	__(\"Single post per row.\",'dt_themes'),\n  509                                                          'one-half-column'=>	__(\"Two posts per row.\",'dt_themes'));\n  510:                                   $v = array_key_exists(\"catalog-post-layout\",$tpl_default_settings) ?  $tpl_default_settings['catalog-post-layout'] : 'one-column';\n  511                                    foreach($posts_layout as $key => $value):\n  512                                        $class = ($key == $v) ? \" class='selected' \" : \"\";\n  ...\n  514                                    endforeach;?>\n  515                            </ul>\n  516:                           <input id=\"mytheme-catalog-post-layout\" name=\"mytheme-catalog-post-layout\" type=\"hidden\" value=\"<?php echo esc_attr( $v );?>\"/>\n  517:                           <p class=\"note\"> <?php _e(\"Choose layout style for your Catalog\",'dt_themes');?> </p>\n  518                        </div>      \n  519    \n  ...\n  523                    <div class=\"custom-box\">\n  524                        <h3><?php _e('Choose Categories','dt_themes');?></h3>\n  525:                       <?php if(array_key_exists(\"catalog-categories\",$tpl_default_settings)):\n  526:                                $exclude_cats = array_unique($tpl_default_settings[\"catalog-categories\"]);\n  527                                 foreach($exclude_cats as $cats):\n  528                                    echo \"<!-- Category Drop Down Container -->\n  529                                          <div class='multidropdown'>\";\n  530:                                   echo  dt_theme_catalog_categorylist(\"catalog,cats\",$cats,\"multidropdown\");\n  531                                    echo \"</div><!-- Category Drop Down Container end-->\";		\n  532                                 endforeach;\n  ...\n  534                                echo \"<!-- Category Drop Down Container -->\";\n  535                                echo \"<div class='multidropdown'>\";\n  536:                         	  echo  dt_theme_catalog_categorylist(\"catalog,cats\",\"\",\"multidropdown\");\n  537                                echo \"</div><!-- Category Drop Down Container end-->\";\n  538                               endif; ?>\n  539:                       <p class=\"note\"> <?php _e(\"You can choose only certain categories to show in catalog items. \",'dt_themes');?> </p>\n  540                    </div><!-- Categories End-->                \n  541                   \n  542:                </div><!-- Catalog Template Settings End-->\n  543  \n  544  \n  ...\n  728  				$settings['disable-tag-info'] = $_POST['mytheme-blog-disable-tag-info'];\n  729  				\n  730: 			elseif( \"tpl-catalog.php\" == $post_template ):\n  731: 				$settings['catalog-post-layout'] = $_POST['mytheme-catalog-post-layout'];\n  732: 				$settings['catalog-categories'] = $_POST['mytheme']['catalog']['cats'];\n  733  							\n  734  			elseif( \"tpl-portfolio.php\" == $post_template ):\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/theme_options/specialty-pages.php:\n    9                      array(\"title\"=>__(\"Tag\",'dt_themes'), \"link\"=>\"#tag-archives\"),\n   10                      array(\"title\"=>__(\"Gallery\",'dt_themes'), \"link\"=>\"#gallery-archives\"),\n   11: 					array(\"title\"=>__(\"Catalog\",'dt_themes'), \"link\"=>\"#catalog-archives\"),\n   12  					array(\"title\"=>__(\"Search\",'dt_themes'), \"link\"=>\"#search\"),\n   13  					array(\"title\"=>__(\"404\",'dt_themes'), \"link\"=>\"#404\"));\n   ..\n   57                          ),\n   58  						\n   59: 						array(  \"id\"=>\"catalog-archives\", \n   60:                                 \"layout-title\"=>__(\"Catalog Custom Post's Category Archive Page Layout\",'dt_themes'),\n   61:                                 \"layout-tooltip\"=>__(\"You can choose between a left, right or no sidebar layout for the Catalog custom post's category Archive page.\",'dt_themes'),\n   62                                  \"post-layout-title\" => __(\"Posts Layout\",'dt_themes'),\n   63                                  \"post-layout-tooltip\"=>__(\"Your category archive results will use the layout you select below.\",'dt_themes'),                                \n   64                                  \"post-layouts\" => array(\n   65:                                     'one-column'=>__(\"Single catalog item  per row.\",'dt_themes'),\n   66:                                     'one-half-column'=>__(\"Two catalog items per row.\",'dt_themes'))\n   67                          ),\n   68  \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/theme_options/woocommerce.php:\n   20                      <div class=\"column two-third last\">\n   21                          <input name=\"mytheme[woo][shop-product-per-page]\" type=\"text\" class=\"small\" value=\"<?php echo trim(stripslashes(dttheme_option('woo','shop-product-per-page')));?>\" />\n   22:                         <p class=\"note\"><?php _e('Number of products to show in catalog / shop page','dt_themes');?></p>\n   23                      </div>\n   24                      \n   25                      <!-- Layout -->\n   26                      <h6><?php _e('Layout','dt_themes');?></h6>\n   27:                     <p class=\"note no-margin\"> <?php _e(\"Choose the Product Layout Style in Catalog / Shop \",\"dt_themes\");?> </p>\n   28                      <div class=\"hr_invisible\"> </div>\n   29                      <div class=\"bpanel-option-set\">\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/woocommerce/index.php:\n   93  \n   94  remove_action( 'woocommerce_sidebar', 'woocommerce_get_sidebar', 10);\n   95: remove_action( 'woocommerce_pagination', 'woocommerce_catalog_ordering', 20 );\n   96  remove_action( 'woocommerce_pagination', 'woocommerce_pagination', 10 );\n   97  \n   98  #Add / Remove WooCommerce actions\n   99  remove_action( 'woocommerce_before_shop_loop', 'woocommerce_result_count', 20 ); #remove result count above products\n  100: remove_action( 'woocommerce_before_shop_loop', 'woocommerce_catalog_ordering', 30 ); #remove woo commerce ordering drop down\n  101  remove_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_rating', 5 ); #remove rating\n  102  remove_action( 'woocommerce_after_shop_loop', 'woocommerce_pagination', 10 ); //remove woo pagination\n  ...\n  305  	if ( $attachment_ids ) {\n  306  			$secondary_image_id = $attachment_ids['0'];\n  307: 			$out .= wp_get_attachment_image( $secondary_image_id, array(500,500), '', $attr = array( 'class' => 'secondary-image attachment-shop-catalog' ) );\n  308  	}\n  309  \n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/sidebar.php:\n   30  	if(function_exists('dynamic_sidebar') && dynamic_sidebar('custom-post-gallery-archives') ): endif;\n   31  	\n   32: elseif( is_tax('catalog_entries') ):	\n   33: 	$disable = dttheme_option('specialty',\"disable-everywhere-sidebar-for-catalog-archives\");\n   34  	if( is_null($disable) )\n   35  		if(function_exists('dynamic_sidebar') && dynamic_sidebar(('display-everywhere-sidebar')) ): endif;\n   36  \n   37: 	if(function_exists('dynamic_sidebar') && dynamic_sidebar('custom-post-catalog-archives') ): endif;\n   38  \n   39  elseif( is_author() ):\n\n/Users/Jeremy/Projects/saks/wp-content/themes/spalab/tpl-catalog.php:\n    1  <?php\n    2  /* \n    3: 	Template Name: Catalog Template\n    4  */\n    5  	get_header();\n    .\n   19                        wp_link_pages(array('before' => '<div class=\"page-link\"><strong>'.__('Pages:', 'dt_themes').'</strong> ', 'after' => '</div>', 'next_or_number' => 'number'));\n   20                        \n   21:                       //PERFORMING CATALOG LAYOUT...\n   22:                       get_template_part( 'framework/loops/content', 'catalog-post-layout');\n   23                        edit_post_link(__('Edit', 'dt_themes'), '<span class=\"edit-link\">', '</span>' ); ?>\n   24                    </article>\n\n/Users/Jeremy/Projects/saks/wp-includes/ID3/module.audio.flac.php:\n  298  		$info = &$this->getid3->info;\n  299  		$offset = 0;\n  300: 		$info['flac']['CUESHEET']['media_catalog_number'] =                              trim(substr($BlockData, $offset, 128), \"\\0\");\n  301  		$offset += 128;\n  302  		$info['flac']['CUESHEET']['lead_in_samples']      =         getid3_lib::BigEndian2Int(substr($BlockData, $offset, 8));\n\n219 matches across 25 files\n",
-			"settings":
-			{
-				"buffer_size": 37614,
+				"buffer_size": 291,
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
@@ -258,7 +209,87 @@
 			"file": "wp-content/plugins/designthemes-core-features/custom-post-types/dt-catalog-post-type.php",
 			"settings":
 			{
-				"buffer_size": 9471,
+				"buffer_size": 9725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/framework/loops/content.php",
+			"settings":
+			{
+				"buffer_size": 5402,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/index.php",
+			"settings":
+			{
+				"buffer_size": 2826,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/category.php",
+			"settings":
+			{
+				"buffer_size": 10327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/framework/loops/content-catalog-post-layout.php",
+			"settings":
+			{
+				"buffer_size": 3818,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/framework/loops/content-single.php",
+			"settings":
+			{
+				"buffer_size": 11946,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/footer.php",
+			"settings":
+			{
+				"buffer_size": 5538,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/archive.php",
+			"settings":
+			{
+				"buffer_size": 11836,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/plugins/designthemes-core-features/custom-post-types/templates/taxonomy-catalog_entries.php",
+			"settings":
+			{
+				"buffer_size": 3939,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab-child/style.css",
+			"settings":
+			{
+				"buffer_size": 14205,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/spalab/searchform.php",
+			"settings":
+			{
+				"buffer_size": 580,
 				"line_ending": "Windows"
 			}
 		}
@@ -299,13 +330,22 @@
 	},
 	"file_history":
 	[
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/style.css",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/style.css",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/archive.php",
+		"/Users/Jeremy/Projects/saks/.htaccess",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-single.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/header.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/header.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content.php",
+		"/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php",
+		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/loops/content-catalog-one-column.php",
 		"/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/dt-catalog-post-type.php",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/functions.php",
 		"/Users/Jeremy/Projects/saks/wp-content/plugins/designthemes-core-features/custom-post-types/metaboxes/dt_catalog_default_metabox.php",
 		"/Users/Jeremy/Projects/saks/wp-content/plugins/revslider/includes/googlefonts.php",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/framework/register_public.php",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/skins/pink/style.css",
-		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/style.css",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/framework/loops/content-catalog-post-layout.php",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab-child/tpl-catalog.php",
 		"/Users/Jeremy/Projects/saks/wp-content/themes/spalab/functions.php",
@@ -402,6 +442,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"blog-entry-inner",
+			"register_custom",
+			"thumb",
+			"wizard",
 			"catalog",
 			"menu",
 			"layout",
@@ -548,56 +592,56 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "wp-content/themes/spalab-child/style.css",
+					"file": "wp-content/themes/spalab-child/functions.php",
 					"settings":
 					{
-						"buffer_size": 14076,
+						"buffer_size": 13221,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11490,
-								11490
+								13210,
+								12999
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4593.0,
+						"translation.y": 2513.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "wp-content/themes/spalab/header.php",
+					"file": "wp-content/themes/spalab/skins/pink/style.css",
 					"settings":
 					{
-						"buffer_size": 10824,
+						"buffer_size": 14941,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1251,
-								1251
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -607,142 +651,6 @@
 				},
 				{
 					"buffer": 2,
-					"file": "wp-content/themes/spalab-child/header.php",
-					"settings":
-					{
-						"buffer_size": 10352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1337,
-								1261
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "wp-content/themes/spalab-child/functions.php",
-					"settings":
-					{
-						"buffer_size": 13006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12995,
-								12995
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"settings":
-					{
-						"buffer_size": 3244,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								760,
-								760
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<h2><a href=\"#\">Saks Is Special</a></h2>",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "wp-content/themes/spalab/skins/pink/style.css",
-					"settings":
-					{
-						"buffer_size": 14954,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7402,
-								7402
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "wp-content/themes/spalab/style.css",
-					"settings":
-					{
-						"buffer_size": 207351,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1857,
-								1857
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "wp-content/themes/spalab-child/tpl-catalog.php",
 					"settings":
 					{
@@ -770,19 +678,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "wp-content/themes/spalab/framework/loops/content.php",
+					"buffer": 3,
+					"file": "wp-content/themes/spalab-child/search.php",
 					"settings":
 					{
-						"buffer_size": 5402,
+						"buffer_size": 849,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1085,
-								1085
+								826,
+								826
 							]
 						],
 						"settings":
@@ -798,64 +706,10 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php",
+					"buffer": 4,
 					"settings":
 					{
-						"buffer_size": 77656,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1370,
-								1352
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 857.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "wp-content/themes/spalab/framework/loops/content-catalog-one-column.php",
-					"settings":
-					{
-						"buffer_size": 1233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"settings":
-					{
-						"buffer_size": 37614,
+						"buffer_size": 291,
 						"regions":
 						{
 							"match":
@@ -864,880 +718,8 @@
 								"regions":
 								[
 									[
-										252,
-										259
-									],
-									[
-										505,
-										512
-									],
-									[
-										756,
-										763
-									],
-									[
-										794,
-										801
-									],
-									[
-										898,
-										905
-									],
-									[
-										1040,
-										1047
-									],
-									[
-										1222,
-										1229
-									],
-									[
-										1306,
-										1313
-									],
-									[
-										1367,
-										1374
-									],
-									[
-										1512,
-										1519
-									],
-									[
-										1595,
-										1602
-									],
-									[
-										1748,
-										1755
-									],
-									[
-										1952,
-										1959
-									],
-									[
-										2014,
-										2021
-									],
-									[
-										2076,
-										2083
-									],
-									[
-										2416,
-										2423
-									],
-									[
-										2596,
-										2603
-									],
-									[
-										2820,
-										2827
-									],
-									[
-										2953,
-										2960
-									],
-									[
-										3014,
-										3021
-									],
-									[
-										3056,
-										3063
-									],
-									[
-										3180,
-										3187
-									],
-									[
-										3230,
-										3237
-									],
-									[
-										3262,
-										3269
-									],
-									[
-										3373,
-										3380
-									],
-									[
-										3555,
-										3562
-									],
-									[
-										3677,
-										3684
-									],
-									[
-										3866,
-										3873
-									],
-									[
-										4023,
-										4030
-									],
-									[
-										4152,
-										4159
-									],
-									[
-										4217,
-										4224
-									],
-									[
-										4463,
-										4470
-									],
-									[
-										4611,
-										4618
-									],
-									[
-										4728,
-										4735
-									],
-									[
-										4833,
-										4840
-									],
-									[
-										5011,
-										5018
-									],
-									[
-										5105,
-										5112
-									],
-									[
-										5206,
-										5213
-									],
-									[
-										5430,
-										5437
-									],
-									[
-										5478,
-										5485
-									],
-									[
-										5513,
-										5520
-									],
-									[
-										5544,
-										5551
-									],
-									[
-										5566,
-										5573
-									],
-									[
-										5855,
-										5862
-									],
-									[
-										6019,
-										6026
-									],
-									[
-										6621,
-										6628
-									],
-									[
-										6643,
-										6650
-									],
-									[
-										7148,
-										7155
-									],
-									[
-										7170,
-										7177
-									],
-									[
-										7794,
-										7801
-									],
-									[
-										7816,
-										7823
-									],
-									[
-										8287,
-										8294
-									],
-									[
-										8309,
-										8316
-									],
-									[
-										8780,
-										8787
-									],
-									[
-										8937,
-										8944
-									],
-									[
-										9259,
-										9266
-									],
-									[
-										9281,
-										9288
-									],
-									[
-										9661,
-										9668
-									],
-									[
-										9683,
-										9690
-									],
-									[
-										10079,
-										10086
-									],
-									[
-										10101,
-										10108
-									],
-									[
-										10512,
-										10519
-									],
-									[
-										10534,
-										10541
-									],
-									[
-										10989,
-										10996
-									],
-									[
-										11076,
-										11083
-									],
-									[
-										11132,
-										11139
-									],
-									[
-										11183,
-										11190
-									],
-									[
-										11447,
-										11454
-									],
-									[
-										11623,
-										11630
-									],
-									[
-										11851,
-										11858
-									],
-									[
-										11889,
-										11896
-									],
-									[
-										12025,
-										12032
-									],
-									[
-										12060,
-										12067
-									],
-									[
-										12235,
-										12242
-									],
-									[
-										12434,
-										12441
-									],
-									[
-										12730,
-										12737
-									],
-									[
-										13058,
-										13065
-									],
-									[
-										13329,
-										13336
-									],
-									[
-										13382,
-										13389
-									],
-									[
-										13497,
-										13504
-									],
-									[
-										13558,
-										13565
-									],
-									[
-										13729,
-										13736
-									],
-									[
-										13776,
-										13783
-									],
-									[
-										13854,
-										13861
-									],
-									[
-										13913,
-										13920
-									],
-									[
-										14097,
-										14104
-									],
-									[
-										14269,
-										14276
-									],
-									[
-										14326,
-										14333
-									],
-									[
-										14409,
-										14416
-									],
-									[
-										14478,
-										14485
-									],
-									[
-										14666,
-										14673
-									],
-									[
-										15173,
-										15180
-									],
-									[
-										15377,
-										15384
-									],
-									[
-										15626,
-										15633
-									],
-									[
-										15675,
-										15682
-									],
-									[
-										15735,
-										15742
-									],
-									[
-										15837,
-										15844
-									],
-									[
-										15907,
-										15914
-									],
-									[
-										15991,
-										15998
-									],
-									[
-										16028,
-										16035
-									],
-									[
-										16244,
-										16251
-									],
-									[
-										16341,
-										16348
-									],
-									[
-										16552,
-										16559
-									],
-									[
-										16842,
-										16849
-									],
-									[
-										17137,
-										17144
-									],
-									[
-										17159,
-										17166
-									],
-									[
-										17271,
-										17278
-									],
-									[
-										17659,
-										17666
-									],
-									[
-										17849,
-										17856
-									],
-									[
-										17951,
-										17958
-									],
-									[
-										18000,
-										18007
-									],
-									[
-										18213,
-										18220
-									],
-									[
-										18310,
-										18317
-									],
-									[
-										18576,
-										18583
-									],
-									[
-										18864,
-										18871
-									],
-									[
-										18901,
-										18908
-									],
-									[
-										19182,
-										19189
-									],
-									[
-										19219,
-										19226
-									],
-									[
-										19260,
-										19267
-									],
-									[
-										19689,
-										19696
-									],
-									[
-										20025,
-										20032
-									],
-									[
-										20058,
-										20065
-									],
-									[
-										20093,
-										20100
-									],
-									[
-										20161,
-										20168
-									],
-									[
-										20197,
-										20204
-									],
-									[
-										20262,
-										20269
-									],
-									[
-										20292,
-										20299
-									],
-									[
-										20325,
-										20332
-									],
-									[
-										20427,
-										20434
-									],
-									[
-										20456,
-										20463
-									],
-									[
-										20646,
-										20653
-									],
-									[
-										20730,
-										20737
-									],
-									[
-										21118,
-										21125
-									],
-									[
-										21153,
-										21160
-									],
-									[
-										21234,
-										21241
-									],
-									[
-										21481,
-										21488
-									],
-									[
-										21584,
-										21591
-									],
-									[
-										21868,
-										21875
-									],
-									[
-										22067,
-										22074
-									],
-									[
-										22395,
-										22402
-									],
-									[
-										22659,
-										22666
-									],
-									[
-										22974,
-										22981
-									],
-									[
-										23068,
-										23075
-									],
-									[
-										23405,
-										23412
-									],
-									[
-										23466,
-										23473
-									],
-									[
-										23712,
-										23719
-									],
-									[
-										23780,
-										23787
-									],
-									[
-										24129,
-										24136
-									],
-									[
-										24405,
-										24412
-									],
-									[
-										24503,
-										24510
-									],
-									[
-										24766,
-										24773
-									],
-									[
-										24799,
-										24806
-									],
-									[
-										24834,
-										24841
-									],
-									[
-										24902,
-										24909
-									],
-									[
-										24938,
-										24945
-									],
-									[
-										25003,
-										25010
-									],
-									[
-										25033,
-										25040
-									],
-									[
-										25066,
-										25073
-									],
-									[
-										25168,
-										25175
-									],
-									[
-										25197,
-										25204
-									],
-									[
-										25387,
-										25394
-									],
-									[
-										25471,
-										25478
-									],
-									[
-										25859,
-										25866
-									],
-									[
-										25894,
-										25901
-									],
-									[
-										25975,
-										25982
-									],
-									[
-										26222,
-										26229
-									],
-									[
-										26325,
-										26332
-									],
-									[
-										26566,
-										26573
-									],
-									[
-										26765,
-										26772
-									],
-									[
-										27093,
-										27100
-									],
-									[
-										27455,
-										27462
-									],
-									[
-										27705,
-										27712
-									],
-									[
-										27740,
-										27747
-									],
-									[
-										27906,
-										27913
-									],
-									[
-										27942,
-										27949
-									],
-									[
-										28196,
-										28203
-									],
-									[
-										28408,
-										28415
-									],
-									[
-										28484,
-										28491
-									],
-									[
-										28538,
-										28545
-									],
-									[
-										28873,
-										28880
-									],
-									[
-										29092,
-										29099
-									],
-									[
-										29157,
-										29164
-									],
-									[
-										29573,
-										29580
-									],
-									[
-										29643,
-										29650
-									],
-									[
-										30012,
-										30019
-									],
-									[
-										30047,
-										30054
-									],
-									[
-										30210,
-										30217
-									],
-									[
-										30487,
-										30494
-									],
-									[
-										30622,
-										30629
-									],
-									[
-										30934,
-										30941
-									],
-									[
-										30956,
-										30963
-									],
-									[
-										31353,
-										31360
-									],
-									[
-										31375,
-										31382
-									],
-									[
-										31654,
-										31661
-									],
-									[
-										31820,
-										31827
-									],
-									[
-										31994,
-										32001
-									],
-									[
-										32050,
-										32057
-									],
-									[
-										32090,
-										32097
-									],
-									[
-										32135,
-										32142
-									],
-									[
-										32177,
-										32184
-									],
-									[
-										32590,
-										32597
-									],
-									[
-										32623,
-										32630
-									],
-									[
-										32866,
-										32873
-									],
-									[
-										32945,
-										32952
-									],
-									[
-										33138,
-										33145
-									],
-									[
-										33605,
-										33612
-									],
-									[
-										33713,
-										33720
-									],
-									[
-										34236,
-										34243
-									],
-									[
-										34551,
-										34558
-									],
-									[
-										34942,
-										34949
-									],
-									[
-										35287,
-										35294
-									],
-									[
-										35817,
-										35824
-									],
-									[
-										36055,
-										36062
-									],
-									[
-										36155,
-										36162
-									],
-									[
-										36401,
-										36408
-									],
-									[
-										36586,
-										36593
-									],
-									[
-										36901,
-										36908
-									],
-									[
-										36995,
-										37002
-									],
-									[
-										37338,
-										37345
+										203,
+										218
 									]
 								],
 								"scope": ""
@@ -1746,8 +728,8 @@
 						"selection":
 						[
 							[
-								1955,
-								1955
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1767,19 +749,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 5,
 					"file": "wp-content/plugins/designthemes-core-features/custom-post-types/dt-catalog-post-type.php",
 					"settings":
 					{
-						"buffer_size": 9471,
+						"buffer_size": 9725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5374,
-								5359
+								4586,
+								4586
 							]
 						],
 						"settings":
@@ -1788,7 +770,279 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1774.0,
+						"translation.y": 3156.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/spalab/framework/loops/content.php",
+					"settings":
+					{
+						"buffer_size": 5402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/spalab/index.php",
+					"settings":
+					{
+						"buffer_size": 2826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/spalab/category.php",
+					"settings":
+					{
+						"buffer_size": 10327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp-content/themes/spalab/framework/loops/content-catalog-post-layout.php",
+					"settings":
+					{
+						"buffer_size": 3818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3236,
+								3042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "wp-content/themes/spalab-child/framework/loops/content-single.php",
+					"settings":
+					{
+						"buffer_size": 11946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8225,
+								8225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1346.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "wp-content/themes/spalab/footer.php",
+					"settings":
+					{
+						"buffer_size": 5538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5534,
+								5485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "wp-content/themes/spalab-child/archive.php",
+					"settings":
+					{
+						"buffer_size": 11836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8945,
+								8945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1261.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "wp-content/plugins/designthemes-core-features/custom-post-types/templates/taxonomy-catalog_entries.php",
+					"settings":
+					{
+						"buffer_size": 3939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1628,
+								1492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 185.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "wp-content/themes/spalab-child/style.css",
+					"settings":
+					{
+						"buffer_size": 14205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2303,
+								2303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 564.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "wp-content/themes/spalab/searchform.php",
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1851,7 +1105,7 @@
 		[
 			[
 				"",
-				"/Users/Jeremy/Projects/ST/supplyplus.sublime-project"
+				"/Users/Jeremy/Projects/sublime/swts.sublime-project"
 			]
 		],
 		"width": 380.0
