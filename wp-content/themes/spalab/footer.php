@@ -103,7 +103,8 @@ $dttheme_general = $dttheme_options['general'];?>
 		if(dttheme_option('integration', 'enable-body-code') != '') 
 			echo "<script type='text/javascript'>".wp_kses(stripslashes(dttheme_option('integration', 'body-code')), $dt_allowed_html_tags )."</script>";
 		wp_footer(); ?>
-</body>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-577e0b676678a726"></script></body>
 </html>
 <?php 
 // $trace =  debug_backtrace ();
